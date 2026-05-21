@@ -3,6 +3,7 @@
 <h1 align="left">
   <span style="color:blue;">Nilayraj Anil Sharma</span>
 </h1>
+
 📊 Data Analyst | 🤖 Data Science Enthusiast | 📈 Business Intelligence Developer
 - 📊 Passionate about transforming raw data into meaningful insights that drive smarter decisions.
 - 💻 Skilled in Python, SQL, Excel, Power BI, Tableau, and analytics tools for data analysis and dashboard creation.
