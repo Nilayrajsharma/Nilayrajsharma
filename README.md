@@ -4,12 +4,12 @@
   <span style="color:blue;">Nilayraj Anil Sharma</span>
 </h1>
 📊 Data Analyst | 🤖 Data Science Enthusiast | 📈 Business Intelligence Developer
-📊 Passionate about transforming raw data into meaningful insights that drive smarter decisions.  
-💻 Skilled in Python, SQL, Excel, Power BI, Tableau, and analytics tools for data analysis and dashboard creation.  
-📈 Enjoy uncovering trends and turning complex data into clear, actionable insights.  
-🤖 Interested in Machine Learning, AI, Predictive Analytics, and advanced Data Science applications.  
-🧠 Focused on analytical thinking and solving problems through data-driven solutions.  
-✨ I believe data tells stories, and meaningful insights create impactful decisions.
+- 📊 Passionate about transforming raw data into meaningful insights that drive smarter decisions.
+- 💻 Skilled in Python, SQL, Excel, Power BI, Tableau, and analytics tools for data analysis and dashboard creation.
+- 📈 Enjoy uncovering trends and turning complex data into clear, actionable insights.
+- 🤖 Interested in Machine Learning, AI, Predictive Analytics, and advanced Data Science applications.
+- 🧠 Focused on analytical thinking and solving problems through data-driven solutions.
+- ✨ Believe that data tells stories, and meaningful insights create impactful decisions.
 
 
 ## 🌐 Socials:
