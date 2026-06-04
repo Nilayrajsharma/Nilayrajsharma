@@ -1,7 +1,7 @@
 # 💫 About Me:
 👋 Hi,I am
 <h1 align="left">
-  <span style="color:blue;">Nilayraj Anil Sharma</span> <img align="right" alt="coding" width="400" src="https://www.dasca.org/content/Images/main/insights-era.gif">
+  <span style="color:blue;">Nilayraj Anil Sharma</span> <img align="right" alt="coding" width="200" src="https://www.dasca.org/content/Images/main/insights-era.gif">
 </h1>
 
 
