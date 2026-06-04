@@ -1,7 +1,7 @@
 # 💫 About Me:
 👋 Hi,I am
 <h1 align="left">
-  <span style="color:blue;">Nilayraj Anil Sharma</span> <img align="right" alt="coding" width="200" src="https://png.pngtree.com/png-clipart/20190925/original/pngtree-data-scientist-isometric-illustration-concept-modern-flat-design-concept-of-png-image_4959895.jpg">
+  <span style="color:blue;">Nilayraj Anil Sharma</span> 
 </h1>
 
 
