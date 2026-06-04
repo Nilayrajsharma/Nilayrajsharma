@@ -1,7 +1,7 @@
 # 💫 About Me:
 👋 Hi,I am
 <h1 align="left">
-  <span style="color:blue;">Nilayraj Anil Sharma</span> <img align="right" alt="coding" width="400" src="[https://iconscout.com/lottie-animation/data-science-animation_8237646](https://kommodo.ai/i/JfFPYvkdjnFJQKNVKpiu)">
+  <span style="color:blue;">Nilayraj Anil Sharma</span> <img align="right" alt="coding" width="400" src="https://www.dasca.org/content/Images/main/insights-era.gif">
 </h1>
 
 
