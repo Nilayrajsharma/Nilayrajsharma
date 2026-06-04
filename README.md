@@ -1,9 +1,9 @@
 # 💫 About Me:
 👋 Hi,I am
 <h1 align="left">
-  <span style="color:blue;">Nilayraj Anil Sharma</span>
+  <span style="color:blue;">Nilayraj Anil Sharma</span> <img align="right" alt="coding" width="400" src="[https://iconscout.com/lottie-animation/data-science-animation_8237646](https://kommodo.ai/i/JfFPYvkdjnFJQKNVKpiu)">
 </h1>
-<img align="right" alt="coding" width="400" src="[https://iconscout.com/lottie-animation/data-science-animation_8237646](https://kommodo.ai/i/JfFPYvkdjnFJQKNVKpiu)">
+
 
 📊 Data Analyst | 🤖 Data Science Enthusiast | 📈 Business Intelligence Developer
 - 📊 Passionate about transforming raw data into meaningful insights that drive smarter decisions.
