@@ -1,15 +1,6 @@
-<!-- 🌊 BLUE WAVE HEADER -->
+<!-- 🌊 BLUE WAVE HEADER WITH TEXT INSIDE -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d6efd,100:00bfff&height=180&section=header&text=&fontSize=0" />
-</p>
-
-<!-- 👤 NAME + TITLE (CENTERED) -->
-<h1 align="center" style="font-family:Calibri, sans-serif;">
-  Nilayraj Anil Sharma
-</h1>
-
-<p align="center" style="font-size:18px; font-family:Calibri, sans-serif;">
-  Data Analyst | Data Scientist | Business Intelligence Developer
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d6efd,100:00bfff&height=220&section=header&text=Nilayraj%20Anil%20Sharma%0AData%20Analyst%20%7C%20Data%20Scientist%20%7C%20Business%20Intelligence%20Developer&fontSize=28&fontColor=ffffff&fontAlign=50&fontAlignY=40" />
 </p>
 
 
