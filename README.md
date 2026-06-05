@@ -1,14 +1,17 @@
-<!-- 🌊 HEADER BANNER -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d47a1,100:00bcd4&height=200&section=header&text=Nilayraj%20Anil%20Sharma&fontSize=35&fontColor=ffffff&animation=fadeIn&fontAlignY=35" />
+<!-- 🌊 BLUE WAVE HEADER -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d47a1,100:00bcd4&height=200&section=header&text=Nilayraj%20Anil%20Sharma&fontSize=35&fontColor=000000&animation=fadeIn&fontAlignY=35" />
 
 <div align="center">
 
-<!-- 🖤 BLACK TEXT ROLES -->
-<p style="color:black; font-size:18px;">
+<!-- 🖤 BLACK JOB TITLES -->
+<p style="color:black; font-size:20px; font-weight:600;">
 Data Analyst | Data Scientist | Business Intelligence Developer
 </p>
 
 </div>
+
+<!-- 🌊 BLUE WAVE FOOTER -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00bcd4,100:0d47a1&height=120&section=footer" />
 
 
 ## 🌐 Socials:
