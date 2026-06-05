@@ -25,108 +25,108 @@
 
 # 💻 Tech Stack:
 
-<!-- ========================= DATA ANALYTICS & BI ========================= -->
+# 💻 Tech Stack & Skills
 
-<h2 align="center">📊 Data Analytics & BI Tools</h2>
+## 💻 Languages
 
 <p align="center">
-
-<a href="https://powerbi.microsoft.com/" title="Power BI">
-  <img src="https://www.vectorlogo.zone/logos/microsoft_powerbi/microsoft_powerbi-icon.svg" width="60"/>
-</a>
-
-<a href="https://www.tableau.com/" title="Tableau">
-  <img src="https://cdn.worldvectorlogo.com/logos/tableau-software.svg" width="60"/>
-</a>
-
-<a href="https://www.microsoft.com/microsoft-365/excel" title="Microsoft Excel">
-  <img src="https://cdn.simpleicons.org/microsoftexcel" width="60"/>
-</a>
-
-<a href="https://learn.microsoft.com/power-query/" title="Power Query">
-  <img src="https://img.icons8.com/color/96/power-query.png" width="60"/>
-</a>
-
-<a href="https://learn.microsoft.com/dax/" title="DAX">
-  <img src="https://www.vectorlogo.zone/logos/microsoft_powerbi/microsoft_powerbi-icon.svg" width="60"/>
-</a>
-
-<a href="https://www.canva.com/" title="Canva">
-  <img src="https://cdn.simpleicons.org/canva" width="60"/>
-</a>
-
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="60" title="Python"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="60" title="SQL"/>
 </p>
 
-<!-- ========================= DEVELOPMENT TOOLS ========================= -->
+---
 
-<h2 align="center">🛠️ Development Tools</h2>
+## 📊 Data Analytics & BI Tools
 
 <p align="center">
-
-<a href="https://jupyter.org/" title="Jupyter Notebook">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" width="60"/>
-</a>
-
-<a href="https://colab.research.google.com/" title="Google Colab">
-  <img src="https://www.vectorlogo.zone/logos/google_colab/google_colab-icon.svg" width="60"/>
-</a>
-
-<a href="https://code.visualstudio.com/" title="VS Code">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="60"/>
-</a>
-
-<a href="https://git-scm.com/" title="Git">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="60"/>
-</a>
-
-<a href="https://github.com/" title="GitHub">
-  <img src="https://cdn.simpleicons.org/github" width="60"/>
-</a>
-
+  <img src="https://www.vectorlogo.zone/logos/microsoft_powerbi/microsoft_powerbi-icon.svg" width="60" title="Power BI"/>
+  <img src="https://cdn.worldvectorlogo.com/logos/tableau-software.svg" width="60" title="Tableau"/>
+  <img src="https://cdn.simpleicons.org/microsoftexcel" width="60" title="Microsoft Excel"/>
+  <img src="https://www.vectorlogo.zone/logos/google_colab/google_colab-icon.svg" width="60" title="Google Colab"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" width="60" title="Jupyter Notebook"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="60" title="VS Code"/>
 </p>
 
-<!-- ========================= LIBRARIES & FRAMEWORKS ========================= -->
+---
 
-<h2 align="center">📚 Libraries & Frameworks</h2>
+## 🗄️ Databases
 
 <p align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="60" title="MySQL"/>
+</p>
 
-<a href="https://pandas.pydata.org/" title="Pandas">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="60"/>
-</a>
+---
 
-<a href="https://numpy.org/" title="NumPy">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="60"/>
-</a>
+## 📚 Libraries & Frameworks
 
-<a href="https://scipy.org/" title="SciPy">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scipy/scipy-original.svg" width="60"/>
-</a>
+<p align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="60" title="Pandas"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="60" title="NumPy"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scipy/scipy-original.svg" width="60" title="SciPy"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/8/84/Matplotlib_icon.svg" width="60" title="Matplotlib"/>
+  <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" width="60" title="Seaborn"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" width="60" title="Scikit-Learn"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" width="60" title="TensorFlow"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" width="60" title="PyTorch"/>
+</p>
 
-<a href="https://scikit-learn.org/" title="Scikit-Learn">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" width="60"/>
-</a>
+---
 
-<a href="https://www.tensorflow.org/" title="TensorFlow">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" width="60"/>
-</a>
+## 🤖 Artificial Intelligence & Machine Learning
 
-<a href="https://pytorch.org/" title="PyTorch">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" width="60"/>
-</a>
+<p align="center">
+  <img src="https://img.shields.io/badge/Machine_Learning-FF6F00?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Deep_Learning-673AB7?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Neural_Networks-3F51B5?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/NLP-009688?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/LLMs-512DA8?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/RAG-3949AB?style=for-the-badge"/>
+</p>
 
-<a href="https://matplotlib.org/" title="Matplotlib">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/8/84/Matplotlib_icon.svg" width="60"/>
-</a>
+---
 
-<a href="https://seaborn.pydata.org/" title="Seaborn">
-  <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" width="60"/>
-</a>
+## 📈 Data Science & Analytics
 
-<a href="https://plotly.com/" title="Plotly">
-  <img src="https://images.plot.ly/logo/new-branding/plotly-logomark.png" width="60"/>
-</a>
+<p align="center">
+  <img src="https://img.shields.io/badge/Statistics-4285F4?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Data_Mining-FF9800?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Data_Cleaning-4CAF50?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/EDA-2196F3?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Feature_Engineering-FF5722?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/ROC--AUC-7B1FA2?style=for-the-badge"/>
+</p>
 
+---
+
+## 🔄 Data Engineering & Pipelines
+
+<p align="center">
+  <img src="https://img.shields.io/badge/ETL-009688?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Data_Pipelines-795548?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Workflow_Automation-607D8B?style=for-the-badge"/>
+</p>
+
+---
+
+## 📊 Business Intelligence
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Business_Intelligence-005571?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Dashboard_Development-673AB7?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/KPI_Reporting-FF9800?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Data_Visualization-2196F3?style=for-the-badge"/>
+</p>
+
+---
+
+## 🛠️ Development Tools
+
+<p align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="60" title="Git"/>
+  <img src="https://cdn.simpleicons.org/github" width="60" title="GitHub"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="60" title="VS Code"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" width="60" title="Jupyter Notebook"/>
+  <img src="https://www.vectorlogo.zone/logos/google_colab/google_colab-icon.svg" width="60" title="Google Colab"/>
 </p>
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.shion.dev/api?username=Nilayrajsharma&theme=github_dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
