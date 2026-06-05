@@ -25,43 +25,138 @@
 
 <h1 align="center">
 
+<!-- 🤖 Artificial Intelligence & Machine Learning -->
+
+<h2 align="center">🤖 Artificial Intelligence & Machine Learning</h2>
+
 <p align="center">
-  <a href="https://en.wikipedia.org/wiki/Machine_learning">
+  <a href="https://en.wikipedia.org/wiki/Machine_learning" target="_blank">
     <img src="https://img.shields.io/badge/Machine_Learning-FF6F00?style=for-the-badge"/>
   </a>
 
-  <a href="https://en.wikipedia.org/wiki/Deep_learning">
+  <a href="https://en.wikipedia.org/wiki/Deep_learning" target="_blank">
     <img src="https://img.shields.io/badge/Deep_Learning-673AB7?style=for-the-badge"/>
   </a>
 
-  <a href="https://en.wikipedia.org/wiki/Artificial_neural_network">
+  <a href="https://en.wikipedia.org/wiki/Artificial_neural_network" target="_blank">
     <img src="https://img.shields.io/badge/Neural_Networks-3F51B5?style=for-the-badge"/>
   </a>
 
-  <a href="https://en.wikipedia.org/wiki/Natural_language_processing">
+  <a href="https://en.wikipedia.org/wiki/Natural_language_processing" target="_blank">
     <img src="https://img.shields.io/badge/NLP-009688?style=for-the-badge"/>
   </a>
 
-  <a href="https://en.wikipedia.org/wiki/Large_language_model">
+  <a href="https://en.wikipedia.org/wiki/Large_language_model" target="_blank">
     <img src="https://img.shields.io/badge/LLMs-512DA8?style=for-the-badge"/>
   </a>
 
-  <a href="https://en.wikipedia.org/wiki/Retrieval-augmented_generation">
+  <a href="https://en.wikipedia.org/wiki/Retrieval-augmented_generation" target="_blank">
     <img src="https://img.shields.io/badge/RAG-3949AB?style=for-the-badge"/>
   </a>
 
-  <a href="https://en.wikipedia.org/wiki/Classification_(machine_learning)">
+  <a href="https://en.wikipedia.org/wiki/Statistical_classification" target="_blank">
     <img src="https://img.shields.io/badge/Classification-4CAF50?style=for-the-badge"/>
   </a>
 
-  <a href="https://en.wikipedia.org/wiki/Regression_analysis">
+  <a href="https://en.wikipedia.org/wiki/Regression_analysis" target="_blank">
     <img src="https://img.shields.io/badge/Regression-FF9800?style=for-the-badge"/>
   </a>
 
-  <a href="https://en.wikipedia.org/wiki/Model_selection">
+  <a href="https://en.wikipedia.org/wiki/Model_selection" target="_blank">
     <img src="https://img.shields.io/badge/Model_Evaluation-607D8B?style=for-the-badge"/>
   </a>
 </p>
+
+<!-- 📈 Data Science & Analytics -->
+
+<h2 align="center">📈 Data Science & Analytics</h2>
+
+<p align="center">
+  <a href="https://en.wikipedia.org/wiki/Statistics" target="_blank">
+    <img src="https://img.shields.io/badge/Statistics-4285F4?style=for-the-badge"/>
+  </a>
+
+  <a href="https://en.wikipedia.org/wiki/Data_mining" target="_blank">
+    <img src="https://img.shields.io/badge/Data_Mining-FF9800?style=for-the-badge"/>
+  </a>
+
+  <a href="https://en.wikipedia.org/wiki/Data_cleansing" target="_blank">
+    <img src="https://img.shields.io/badge/Data_Cleaning-4CAF50?style=for-the-badge"/>
+  </a>
+
+  <a href="https://en.wikipedia.org/wiki/Data_wrangling" target="_blank">
+    <img src="https://img.shields.io/badge/Data_Wrangling-795548?style=for-the-badge"/>
+  </a>
+
+  <a href="https://en.wikipedia.org/wiki/Exploratory_data_analysis" target="_blank">
+    <img src="https://img.shields.io/badge/EDA-2196F3?style=for-the-badge"/>
+  </a>
+
+  <a href="https://en.wikipedia.org/wiki/Feature_engineering" target="_blank">
+    <img src="https://img.shields.io/badge/Feature_Engineering-FF5722?style=for-the-badge"/>
+  </a>
+
+  <a href="https://en.wikipedia.org/wiki/Receiver_operating_characteristic" target="_blank">
+    <img src="https://img.shields.io/badge/ROC--AUC-7B1FA2?style=for-the-badge"/>
+  </a>
+
+  <a href="https://en.wikipedia.org/wiki/Statistical_hypothesis_testing" target="_blank">
+    <img src="https://img.shields.io/badge/Hypothesis_Testing-607D8B?style=for-the-badge"/>
+  </a>
+</p>
+
+<!-- 🔄 Data Engineering & Pipelines -->
+
+<h2 align="center">🔄 Data Engineering & Pipelines</h2>
+
+<p align="center">
+  <a href="https://en.wikipedia.org/wiki/Extract,_transform,_load" target="_blank">
+    <img src="https://img.shields.io/badge/ETL-009688?style=for-the-badge"/>
+  </a>
+
+  <a href="https://en.wikipedia.org/wiki/Data_pipeline" target="_blank">
+    <img src="https://img.shields.io/badge/Data_Pipelines-795548?style=for-the-badge"/>
+  </a>
+
+  <a href="https://en.wikipedia.org/wiki/Workflow" target="_blank">
+    <img src="https://img.shields.io/badge/Workflow_Automation-607D8B?style=for-the-badge"/>
+  </a>
+
+  <a href="https://en.wikipedia.org/wiki/Data_model" target="_blank">
+    <img src="https://img.shields.io/badge/Data_Modeling-3F51B5?style=for-the-badge"/>
+  </a>
+</p>
+
+<!-- 📊 Business Intelligence -->
+
+<h2 align="center">📊 Business Intelligence</h2>
+
+<p align="center">
+  <a href="https://en.wikipedia.org/wiki/Business_intelligence" target="_blank">
+    <img src="https://img.shields.io/badge/Business_Intelligence-005571?style=for-the-badge"/>
+  </a>
+
+  <a href="https://en.wikipedia.org/wiki/Dashboard_(business)" target="_blank">
+    <img src="https://img.shields.io/badge/Dashboard_Development-673AB7?style=for-the-badge"/>
+  </a>
+
+  <a href="https://en.wikipedia.org/wiki/Performance_indicator" target="_blank">
+    <img src="https://img.shields.io/badge/KPI_Reporting-FF9800?style=for-the-badge"/>
+  </a>
+
+  <a href="https://en.wikipedia.org/wiki/Data_and_information_visualization" target="_blank">
+    <img src="https://img.shields.io/badge/Data_Visualization-2196F3?style=for-the-badge"/>
+  </a>
+
+  <a href="https://en.wikipedia.org/wiki/Data_storytelling" target="_blank">
+    <img src="https://img.shields.io/badge/Data_Storytelling-009688?style=for-the-badge"/>
+  </a>
+
+  <a href="https://en.wikipedia.org/wiki/Dashboard_(business)" target="_blank">
+    <img src="https://img.shields.io/badge/Interactive_Dashboards-795548?style=for-the-badge"/>
+  </a>
+</p>
+
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=Nilayrajsharma&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
