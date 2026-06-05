@@ -15,15 +15,15 @@
 </a>
 
 <a href="https://linkedin.com/in/nilayraj-sharma">
-  <img src="https://cdn.simpleicons.org/linkedin/0077B5" height="40"/>
+  <img src="https://cdn.simpleicons.org/linkedin/0A66C2" height="40"/>
 </a>
 
 <a href="https://x.com/nilayrajsharma7">
-  <img src="https://cdn.simpleicons.org/x/000000" height="40"/>
+  <img src="https://cdn.simpleicons.org/twitter/000000" height="40"/>
 </a>
 
 <a href="mailto:nilayrajsharma7@gmail.com">
-  <img src="https://cdn.simpleicons.org/gmail/D14836" height="40"/>
+  <img src="https://cdn.simpleicons.org/gmail/EA4335" height="40"/>
 </a>
 
 </div>
