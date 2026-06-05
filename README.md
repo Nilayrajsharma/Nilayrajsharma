@@ -26,7 +26,7 @@
   <img src="https://skillicons.dev/icons?i=gmail" height="40"/>
 </a>
 
-<a href="tel:+91XXXXXXXXXX" title="Phone">
+<a href="tel:+91 9967902946" title="Phone">
   <img src="https://skillicons.dev/icons?i=phone" height="40"/>
 </a>
 
