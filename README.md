@@ -1,21 +1,7 @@
-<!-- 🌊 BLUE WAVE HEADER FIXED -->
+<!-- 🌊 PERFECT BLUE WAVE HEADER (PIXEL ALIGNED) -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?
-type=waving&
-color=0:0d6efd,100:00bfff&
-height=260&
-section=header&
-text=Nilayraj%20Anil%20Sharma&
-fontSize=35&
-fontColor=ffffff&
-fontAlign=50&
-fontAlignY=35&
-desc=Data%20Analyst%20%7C%20Data%20Scientist%20%7C%20Business%20Intelligence%20Developer&
-descSize=18&
-descAlign=50&
-descAlignY=55" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d6efd,100:00bfff&height=260&section=header&text=Nilayraj%20Anil%20Sharma%0AData%20Analyst%20%7C%20Data%20Scientist%20%7C%20Business%20Intelligence%20Developer&fontSize=30&fontColor=ffffff&fontAlign=50&fontAlignY=35&desc=&descSize=0" />
 </p>
-
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/nilayraj_sharma_7781__) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/nilayraj-sharma) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/nilayrajsharma7) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:nilayrajsharma7@gmail.com) 
