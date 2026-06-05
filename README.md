@@ -18,9 +18,9 @@
   <img src="https://skillicons.dev/icons?i=linkedin" height="40"/>
 </a>
 
-<a href="https://x.com/nilayrajsharma7">
+<div style="display:inline-block; background:#ffffff; padding:8px; border-radius:50%;">
   <img src="https://cdn.simpleicons.org/x/000000" height="40"/>
-</a>
+</div>
 
 <a href="mailto:nilayrajsharma7@gmail.com">
   <img src="https://skillicons.dev/icons?i=gmail" height="40"/>
