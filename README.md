@@ -26,32 +26,59 @@
 # 💻 Tech Stack:
 ## 🛠️ Tech Stack
 
-<p align="left">
+## 🛠️ Tech Stack
 
-<a href="https://www.python.org/" target="_blank">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" title="Python" width="40" height="40"/>
+<p align="center">
+
+<a href="https://www.python.org/" target="_blank" style="text-decoration: none;">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"
+       alt="Python"
+       title="Python"
+       width="50"
+       height="50"/>
 </a>
 
-<a href="https://www.mysql.com/" target="_blank">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="MySQL" title="MySQL" width="40" height="40"/>
+<a href="https://www.mysql.com/" target="_blank" style="text-decoration: none;">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg"
+       alt="MySQL"
+       title="MySQL"
+       width="50"
+       height="50"/>
 </a>
 
-<a href="https://powerbi.microsoft.com/" target="_blank">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg" alt="Power BI" title="Power BI" width="40" height="40"/>
+<a href="https://powerbi.microsoft.com/" target="_blank" style="text-decoration: none;">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg"
+       alt="Power BI"
+       title="Power BI"
+       width="50"
+       height="50"/>
 </a>
 
-<a href="https://www.tableau.com/" target="_blank">
-  <img src="https://cdn.worldvectorlogo.com/logos/tableau-software.svg" alt="Tableau" title="Tableau" width="40" height="40"/>
+<a href="https://www.tableau.com/" target="_blank" style="text-decoration: none;">
+  <img src="https://cdn.worldvectorlogo.com/logos/tableau-software.svg"
+       alt="Tableau"
+       title="Tableau"
+       width="50"
+       height="50"/>
 </a>
 
-<a href="https://git-scm.com/" target="_blank">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" title="Git" width="40" height="40"/>
+<a href="https://git-scm.com/" target="_blank" style="text-decoration: none;">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"
+       alt="Git"
+       title="Git"
+       width="50"
+       height="50"/>
 </a>
 
-<a href="https://github.com/" target="_blank">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="GitHub" title="GitHub" width="40" height="40"/>
+<a href="https://github.com/" target="_blank" style="text-decoration: none;">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg"
+       alt="GitHub"
+       title="GitHub"
+       width="50"
+       height="50"/>
 </a>
 
+</p>
 </p>
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.shion.dev/api?username=Nilayrajsharma&theme=github_dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
