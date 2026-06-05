@@ -3,15 +3,12 @@
 
 <div align="center">
 
-<!-- 🖤 BLACK JOB TITLES -->
+<!-- 🖤 JOB TITLES BELOW NAME -->
 <p style="color:black; font-size:20px; font-weight:600;">
 Data Analyst | Data Scientist | Business Intelligence Developer
 </p>
 
 </div>
-
-<!-- 🌊 BLUE WAVE FOOTER -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00bcd4,100:0d47a1&height=120&section=footer" />
 
 
 ## 🌐 Socials:
