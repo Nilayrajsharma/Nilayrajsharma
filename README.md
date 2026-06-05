@@ -1,11 +1,12 @@
-# 💫 About Me:
-👋 Hi,I am
-<h1 align="left">
-  <span style="color:blue;">Nilayraj Anil Sharma</span> 
-</h1>
+# 💫 About Me
 
+<div align="center">
 
-📊 Data Analyst | 🤖 Data Science Enthusiast | 📈 Business Intelligence Developer
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=28&pause=1000&color=36BCF7&center=true&vCenter=true&width=700&lines=👋+Hi%2C+I'm+Nilayraj+Anil+Sharma;📊+Data+Analyst;🤖+Aspiring+Data+Scientist;📈+Business+Intelligence+Developer;🚀+Transforming+Data+into+Insights" alt="Typing SVG" />
+
+</div>
+
+<img align="right" width="320" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdG45aXFzY2V4N3pkd2JydDd6Y3JmdHZ4d3FzNnJ6N2N3N3J3YzB2eiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/qgQUggAC3Pfv687qPC/giphy.gif"/>
 - 📊 Passionate about transforming raw data into meaningful insights that drive smarter decisions.
 - 💻 Skilled in Python, SQL, Excel, Power BI, Tableau, and analytics tools for data analysis and dashboard creation.
 - 📈 Enjoy uncovering trends and turning complex data into clear, actionable insights.
