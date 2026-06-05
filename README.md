@@ -48,7 +48,6 @@
 ## 📊 Data Analytics & BI Tools
 
 
-
 <p align="center">
 
   <img src="https://www.vectorlogo.zone/logos/microsoft_powerbi/microsoft_powerbi-icon.svg" width="60" title="Power BI"/>
