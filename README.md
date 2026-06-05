@@ -11,7 +11,7 @@
 <div align="center">
 
 <a href="https://instagram.com/nilayraj_sharma_7781__">
-  <img src="https://cdn.simpleicons.org/instagram/E4405F" height="40"/>
+  <img src="https://skillicons.dev/icons?i=instagram" height="40"/>
 </a>
 
 <a href="https://linkedin.com/in/nilayraj-sharma">
