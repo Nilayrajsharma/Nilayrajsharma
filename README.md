@@ -1,14 +1,10 @@
-<!-- 🌊 BLUE WAVE HEADER -->
+<!-- 🌊 BLUE WAVE HEADER (NAME ONLY) -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d47a1,100:00bcd4&height=200&section=header&text=Nilayraj%20Anil%20Sharma&fontSize=35&fontColor=000000&animation=fadeIn&fontAlignY=35" />
 
-<div align="center">
-
-<!-- 🖤 JOB TITLES BELOW NAME -->
-<p style="color:black; font-size:20px; font-weight:600;">
+<!-- 🖤 JOB TITLES DIRECTLY BELOW -->
+<p align="center" style="color:black; font-size:20px; font-weight:600; margin-top:10px;">
 Data Analyst | Data Scientist | Business Intelligence Developer
 </p>
-
-</div>
 
 
 ## 🌐 Socials:
