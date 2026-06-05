@@ -26,6 +26,10 @@
   <img src="https://skillicons.dev/icons?i=gmail" height="40"/>
 </a>
 
+<a href="tel:+91XXXXXXXXXX" title="Phone">
+  <img src="https://skillicons.dev/icons?i=phone" height="40"/>
+</a>
+
 </div>
 
 <!-- Snake Game Repo View -->
