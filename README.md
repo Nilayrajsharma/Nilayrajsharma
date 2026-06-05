@@ -28,96 +28,129 @@
 <h2 align="center">💻 Languages</h2>
 
 <p align="center">
-  <a href="https://www.python.org/" target="_blank">
-    <img src="https://cdn.simpleicons.org/python" alt="Python" title="Python" width="50" height="50"/>
+  <a href="https://www.python.org/" title="Python">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="50"/>
   </a>
   &nbsp;&nbsp;
-  <a href="https://en.wikipedia.org/wiki/SQL" target="_blank">
-    <img src="https://cdn.simpleicons.org/mysql" alt="SQL" title="SQL" width="50" height="50"/>
+  <a href="https://en.wikipedia.org/wiki/SQL" title="SQL">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="50"/>
   </a>
 </p>
 
 <h2 align="center">🛠️ Tools & Platforms</h2>
 
 <p align="center">
-  <a href="https://powerbi.microsoft.com/" target="_blank">
-    <img src="https://cdn.simpleicons.org/powerbi" alt="Power BI" title="Power BI" width="50" height="50"/>
+  <a href="https://powerbi.microsoft.com/" title="Power BI">
+    <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
   </a>
-  &nbsp;&nbsp;
-  <a href="https://www.tableau.com/" target="_blank">
-    <img src="https://cdn.simpleicons.org/tableau" alt="Tableau" title="Tableau" width="50" height="50"/>
+
+  <a href="https://www.tableau.com/" title="Tableau">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tableau/tableau-original.svg" width="50"/>
   </a>
-  &nbsp;&nbsp;
-  <a href="https://www.mysql.com/" target="_blank">
-    <img src="https://cdn.simpleicons.org/mysql" alt="MySQL" title="MySQL" width="50" height="50"/>
+
+  <a href="https://www.mysql.com/" title="MySQL">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="50"/>
   </a>
-  &nbsp;&nbsp;
-  <a href="https://www.microsoft.com/microsoft-365/excel" target="_blank">
-    <img src="https://cdn.simpleicons.org/microsoftexcel" alt="Excel" title="Advanced Excel" width="50" height="50"/>
+
+  <a href="https://www.microsoft.com/microsoft-365/excel" title="Excel">
+    <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white"/>
   </a>
-  &nbsp;&nbsp;
-  <a href="https://learn.microsoft.com/power-query/" target="_blank">
-    <img src="https://cdn.simpleicons.org/microsoft" alt="Power Query" title="Power Query" width="50" height="50"/>
+
+  <a href="https://jupyter.org/" title="Jupyter">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" width="50"/>
   </a>
-  &nbsp;&nbsp;
-  <a href="https://jupyter.org/" target="_blank">
-    <img src="https://cdn.simpleicons.org/jupyter" alt="Jupyter" title="Jupyter Notebook" width="50" height="50"/>
+
+  <a href="https://code.visualstudio.com/" title="VS Code">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="50"/>
   </a>
-  &nbsp;&nbsp;
-  <a href="https://code.visualstudio.com/" target="_blank">
-    <img src="https://cdn.simpleicons.org/visualstudiocode" alt="VS Code" title="VS Code" width="50" height="50"/>
+
+  <a href="https://git-scm.com/" title="Git">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="50"/>
   </a>
-  &nbsp;&nbsp;
-  <a href="https://git-scm.com/" target="_blank">
-    <img src="https://cdn.simpleicons.org/git" alt="Git" title="Git" width="50" height="50"/>
+
+  <a href="https://github.com/" title="GitHub">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="50"/>
   </a>
-  &nbsp;&nbsp;
-  <a href="https://github.com/" target="_blank">
-    <img src="https://cdn.simpleicons.org/github" alt="GitHub" title="GitHub" width="50" height="50"/>
-  </a>
-  &nbsp;&nbsp;
-  <a href="https://www.canva.com/" target="_blank">
-    <img src="https://cdn.simpleicons.org/canva" alt="Canva" title="Canva" width="50" height="50"/>
+
+  <a href="https://www.canva.com/" title="Canva">
+    <img src="https://cdn.simpleicons.org/canva/00C4CC" width="50"/>
   </a>
 </p>
 
 <h2 align="center">📚 Libraries & Frameworks</h2>
 
 <p align="center">
-  <a href="https://pandas.pydata.org/" target="_blank">
-    <img src="https://cdn.simpleicons.org/pandas" alt="Pandas" title="Pandas" width="50" height="50"/>
+  <a href="https://pandas.pydata.org/" title="Pandas">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="50"/>
   </a>
-  &nbsp;&nbsp;
-  <a href="https://numpy.org/" target="_blank">
-    <img src="https://cdn.simpleicons.org/numpy" alt="NumPy" title="NumPy" width="50" height="50"/>
+
+  <a href="https://numpy.org/" title="NumPy">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="50"/>
   </a>
-  &nbsp;&nbsp;
-  <a href="https://scipy.org/" target="_blank">
-    <img src="https://cdn.simpleicons.org/scipy" alt="SciPy" title="SciPy" width="50" height="50"/>
+
+  <a href="https://scipy.org/" title="SciPy">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scikitlearn/scikitlearn-original.svg" width="50"/>
   </a>
-  &nbsp;&nbsp;
-  <a href="https://scikit-learn.org/" target="_blank">
-    <img src="https://cdn.simpleicons.org/scikitlearn" alt="Scikit-Learn" title="Scikit-Learn" width="50" height="50"/>
+
+  <a href="https://scikit-learn.org/" title="Scikit-Learn">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scikitlearn/scikitlearn-original.svg" width="50"/>
   </a>
-  &nbsp;&nbsp;
-  <a href="https://www.tensorflow.org/" target="_blank">
-    <img src="https://cdn.simpleicons.org/tensorflow" alt="TensorFlow" title="TensorFlow" width="50" height="50"/>
+
+  <a href="https://www.tensorflow.org/" title="TensorFlow">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" width="50"/>
   </a>
-  &nbsp;&nbsp;
-  <a href="https://matplotlib.org/" target="_blank">
-    <img src="https://cdn.simpleicons.org/matplotlib" alt="Matplotlib" title="Matplotlib" width="50" height="50"/>
+
+  <a href="https://matplotlib.org/" title="Matplotlib">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/8/84/Matplotlib_icon.svg" width="50"/>
   </a>
-  &nbsp;&nbsp;
-  <a href="https://plotly.com/" target="_blank">
-    <img src="https://cdn.simpleicons.org/plotly" alt="Plotly" title="Plotly" width="50" height="50"/>
+
+  <a href="https://plotly.com/" title="Plotly">
+    <img src="https://images.plot.ly/logo/new-branding/plotly-logomark.png" width="50"/>
   </a>
 </p>
 
 <h2 align="center">📊 Concepts & Techniques</h2>
 
 <p align="center">
-  Statistics • Data Cleaning • Data Mining • EDA • Feature Engineering •
-  Machine Learning • Business Intelligence • Dashboard Development • ETL • DAX
+  <a href="https://en.wikipedia.org/wiki/Statistics">
+    <img src="https://img.shields.io/badge/Statistics-4285F4?style=for-the-badge" />
+  </a>
+
+  <a href="https://en.wikipedia.org/wiki/Data_cleansing">
+    <img src="https://img.shields.io/badge/Data_Cleaning-4CAF50?style=for-the-badge" />
+  </a>
+
+  <a href="https://en.wikipedia.org/wiki/Data_mining">
+    <img src="https://img.shields.io/badge/Data_Mining-FF9800?style=for-the-badge" />
+  </a>
+
+  <a href="https://en.wikipedia.org/wiki/Exploratory_data_analysis">
+    <img src="https://img.shields.io/badge/EDA-2196F3?style=for-the-badge" />
+  </a>
+
+  <a href="https://en.wikipedia.org/wiki/Feature_engineering">
+    <img src="https://img.shields.io/badge/Feature_Engineering-FF5722?style=for-the-badge" />
+  </a>
+
+  <a href="https://en.wikipedia.org/wiki/Machine_learning">
+    <img src="https://img.shields.io/badge/Machine_Learning-102230?style=for-the-badge" />
+  </a>
+
+  <a href="https://en.wikipedia.org/wiki/Business_intelligence">
+    <img src="https://img.shields.io/badge/Business_Intelligence-005571?style=for-the-badge" />
+  </a>
+
+  <a href="https://en.wikipedia.org/wiki/Dashboard_(business)">
+    <img src="https://img.shields.io/badge/Dashboard_Development-673AB7?style=for-the-badge" />
+  </a>
+
+  <a href="https://en.wikipedia.org/wiki/Extract,_transform,_load">
+    <img src="https://img.shields.io/badge/ETL-009688?style=for-the-badge" />
+  </a>
+
+  <a href="https://learn.microsoft.com/dax/">
+    <img src="https://img.shields.io/badge/DAX-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" />
+  </a>
 </p>
 
 # 📊 GitHub Stats:
