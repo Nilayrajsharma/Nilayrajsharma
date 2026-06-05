@@ -1,6 +1,19 @@
-<!-- 🌊 PERFECT BLUE WAVE HEADER (PIXEL ALIGNED) -->
+<!-- 🌊 BLUE WAVE HEADER FIXED -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d6efd,100:00bfff&height=260&section=header&text=Nilayraj%20Anil%20Sharma%0AData%20Analyst%20%7C%20Data%20Scientist%20%7C%20Business%20Intelligence%20Developer&fontSize=30&fontColor=ffffff&fontAlign=50&fontAlignY=35&desc=&descSize=0" />
+  <img src="https://capsule-render.vercel.app/api?
+type=waving&
+color=0:0d6efd,100:00bfff&
+height=260&
+section=header&
+text=Nilayraj%20Anil%20Sharma&
+fontSize=35&
+fontColor=ffffff&
+fontAlign=50&
+fontAlignY=35&
+desc=Data%20Analyst%20%7C%20Data%20Scientist%20%7C%20Business%20Intelligence%20Developer&
+descSize=18&
+descAlign=50&
+descAlignY=55" />
 </p>
 
 
