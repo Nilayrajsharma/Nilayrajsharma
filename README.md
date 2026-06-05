@@ -23,6 +23,8 @@
   <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
 </div>
 
+<h1 align="center">
+
 <h1 align="center">💻 Tech Stack & Skills</h1>
 
 <h2 align="center">💻 Languages</h2>
