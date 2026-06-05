@@ -1,10 +1,12 @@
-<!-- 🌊 BLUE WAVE HEADER -->
+<!-- 🌊 HEADER BANNER -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d47a1,100:00bcd4&height=200&section=header&text=Nilayraj%20Anil%20Sharma&fontSize=35&fontColor=ffffff&animation=fadeIn&fontAlignY=35" />
 
 <div align="center">
 
-<!-- ✨ ANIMATED TYPING ROLES -->
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00BFFF&center=true&vCenter=true&width=900&lines=Data+Analyst;Data+Scientist;Business+Intelligence+Developer" />
+<!-- 🖤 BLACK TEXT ROLES -->
+<p style="color:black; font-size:18px;">
+Data Analyst | Data Scientist | Business Intelligence Developer
+</p>
 
 </div>
 
