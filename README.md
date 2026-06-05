@@ -6,7 +6,7 @@
 
 </div>
 
-## 🌐 Socials:
+## 🌐 Contact with me:
 
 <div align="center">
 
