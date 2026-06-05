@@ -1,19 +1,67 @@
 # 💫 About Me
 
+<!-- 🌊 BLUE ANIMATED WAVE HEADER -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d47a1,100:00bcd4&height=200&section=header&text=Nilayraj%20Anil%20Sharma&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=35" />
+
+---
+
+<!-- ✨ TYPING ANIMATION (BLUE STYLE) -->
 <div align="center">
 
-<!-- Animated typing header -->
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&pause=1000&color=00F7FF&center=true&vCenter=true&width=800&lines=Hi+I'm+Nilayraj+Anil+Sharma;Data+Analyst+%7C+BI+Developer;Aspiring+Data+Scientist;Turning+Data+into+Insights" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=00BFFF&center=true&vCenter=true&width=800&lines=Data+Analyst;Business+Intelligence+Developer;Aspiring+Data+Scientist;Turning+Data+into+Insights" />
 
 </div>
 
-<img align="right" width="320" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdG45aXFzY2V4N3pkd2JydDd6Y3JmdHZ4d3FzNnJ6N2N3N3J3YzB2eiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/qgQUggAC3Pfv687qPC/giphy.gif"/>
-- 📊 Passionate about transforming raw data into meaningful insights that drive smarter decisions.
-- 💻 Skilled in Python, SQL, Excel, Power BI, Tableau, and analytics tools for data analysis and dashboard creation.
-- 📈 Enjoy uncovering trends and turning complex data into clear, actionable insights.
-- 🤖 Interested in Machine Learning, AI, Predictive Analytics, and advanced Data Science applications.
-- 🧠 Focused on analytical thinking and solving problems through data-driven solutions.
-- ✨ Believe that data tells stories, and meaningful insights create impactful decisions.
+---
+
+## 👨‍💻 About Me (Blue Theme Vibes)
+
+<img align="right" width="350" src="https://media.giphy.com/media/3o7TKtnuHOHHUjR38Y/giphy.gif" />
+
+- 📊 Data Analyst focused on insights & storytelling  
+- 🤖 Exploring Data Science & AI  
+- 📈 Building interactive BI dashboards  
+- 🧠 Turning raw data into meaningful decisions  
+- 🚀 Always learning and improving  
+
+---
+
+## 🌊 Blue Motion Graphics
+
+<p align="center">
+  <img src="https://media.giphy.com/media/l0HlNaQ6gWfllcjDO/giphy.gif" width="300"/>
+  <img src="https://media.giphy.com/media/coxQHKASG60HrHtvkt/giphy.gif" width="300"/>
+</p>
+
+---
+
+## 📊 Live GitHub Stats (Blue Theme)
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=blueberry" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=blueberry" />
+</p>
+
+---
+
+## 🐍 Animated Contribution Graph (Blue Style)
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg" />
+</p>
+
+---
+
+## 💙 Blue Tech Stack Glow
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,sql,pandas,numpy,js,react,html,css,git,github&theme=light" />
+</p>
+
+---
+
+<!-- 🌊 BLUE WAVE FOOTER -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00bcd4,100:0d47a1&height=120&section=footer" />
 
 
 ## 🌐 Socials:
