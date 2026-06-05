@@ -1,6 +1,15 @@
-<!-- 🌊 BLUE WAVE HEADER WITH TEXT INSIDE -->
+<!-- 🌊 BLUE WAVE HEADER WITH PROPER 2-LINE TEXT -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d6efd,100:00bfff&height=220&section=header&text=Nilayraj%20Anil%20Sharma%0AData%20Analyst%20%7C%20Data%20Scientist%20%7C%20Business%20Intelligence%20Developer&fontSize=28&fontColor=ffffff&fontAlign=50&fontAlignY=40" />
+  <img src="https://capsule-render.vercel.app/api?
+type=waving&
+color=0:0d6efd,100:00bfff&
+height=220&
+section=header&
+text=Nilayraj%20Anil%20Sharma%0AData%20Analyst%20%7C%20Data%20Scientist%20%7C%20Business%20Intelligence%20Developer&
+fontSize=28&
+fontColor=ffffff&
+fontAlign=50&
+fontAlignY=38" />
 </p>
 
 
