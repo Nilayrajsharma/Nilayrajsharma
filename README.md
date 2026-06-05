@@ -1,6 +1,6 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=260&color=0:FFA500,50:FFB732,100:FFD447&text=Nilayraj%20Sharma&fontColor=0A192F&fontSize=52&fontAlignY=38&desc=AI%20Engineer%20|%20Data%20Scientist%20|%20ML%20Explorer&descAlignY=60&descColor=0A192F&animation=fadeIn"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=260&color=0:FFA500,50:FFB732,100:FFD447&text=Nilayraj%20Sharma&fontColor=0A192F&fontSize=52&fontAlignY=38&desc=Data%20Analyst%20|%20Data%20Scientist%20|%20ML%20Explorer&descAlignY=60&descColor=0A192F&animation=fadeIn"/>
 
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&pause=2500&color=FFD447&center=true&vCenter=true&width=850&lines=Building+Intelligent+Systems;Machine+Learning+%7C+Data+Science+%7C+AI;Always+Learning+Always+Improving" />
