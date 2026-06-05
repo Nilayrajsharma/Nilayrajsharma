@@ -1,7 +1,11 @@
-<!-- 🌊 PERFECT BLUE WAVE HEADER (PIXEL ALIGNED) -->
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d6efd,100:00bfff&height=260&section=header&text=Nilayraj%20Anil%20Sharma%0AData%20Analyst%20%7C%20Data%20Scientist%20%7C%20Business%20Intelligence%20Developer&fontSize=30&fontColor=ffffff&fontAlign=50&fontAlignY=35&desc=&descSize=0" />
-</p>
+<div align="center">
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=260&color=0:FFA500,50:FFB732,100:FFD447&text=Nilayraj%20Sharma&fontColor=0A192F&fontSize=52&fontAlignY=38&desc=AI%20Engineer%20|%20Data%20Scientist%20|%20ML%20Explorer&descAlignY=60&descColor=0A192F&animation=fadeIn"/>
+
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&pause=2500&color=FFD447&center=true&vCenter=true&width=850&lines=Building+Intelligent+Systems;Machine+Learning+%7C+Data+Science+%7C+AI;Always+Learning+Always+Improving" />
+
+</div>
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/nilayraj_sharma_7781__) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/nilayraj-sharma) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/nilayrajsharma7) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:nilayrajsharma7@gmail.com) 
