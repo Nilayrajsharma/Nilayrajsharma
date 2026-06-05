@@ -26,8 +26,8 @@
   <img src="https://skillicons.dev/icons?i=gmail" height="40"/>
 </a>
 
-<a href="tel:+919967902946" title="Phone">
-  <img src="https://skillicons.dev/icons?i=phone" height="40"/>
+<a href="tel:+919967902946" title="Call Me">
+  <img src="https://cdn.simpleicons.org/phone/0000D1" height="45"/>
 </a>
 
 </div>
