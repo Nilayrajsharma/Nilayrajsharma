@@ -24,61 +24,47 @@
 </div>
 
 # 💻 Tech Stack:
-## 🛠️ Tech Stack
 
-## 🛠️ Tech Stack
+### Languages
 
-<p align="center">
+[![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)](https://www.python.org/)
+[![SQL](https://img.shields.io/badge/SQL-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)](https://en.wikipedia.org/wiki/SQL)
 
-<a href="https://www.python.org/" target="_blank" style="text-decoration: none;">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"
-       alt="Python"
-       title="Python"
-       width="50"
-       height="50"/>
-</a>
+### Tools & Platforms
 
-<a href="https://www.mysql.com/" target="_blank" style="text-decoration: none;">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg"
-       alt="MySQL"
-       title="MySQL"
-       width="50"
-       height="50"/>
-</a>
+[![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)](https://powerbi.microsoft.com/)
+[![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)](https://www.tableau.com/)
+[![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)](https://www.mysql.com/)
+[![Advanced Excel](https://img.shields.io/badge/Advanced_Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white)](https://www.microsoft.com/microsoft-365/excel)
+[![Power Query](https://img.shields.io/badge/Power_Query-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white)](https://learn.microsoft.com/power-query/)
+[![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)](https://jupyter.org/)
+[![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)](https://code.visualstudio.com/)
+[![Git](https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git&logoColor=white)](https://git-scm.com/)
+[![GitHub](https://img.shields.io/badge/GitHub-121011?style=for-the-badge&logo=github&logoColor=white)](https://github.com/)
+[![Canva](https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white)](https://www.canva.com/)
 
-<a href="https://powerbi.microsoft.com/" target="_blank" style="text-decoration: none;">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg"
-       alt="Power BI"
-       title="Power BI"
-       width="50"
-       height="50"/>
-</a>
+### Libraries & Frameworks
 
-<a href="https://www.tableau.com/" target="_blank" style="text-decoration: none;">
-  <img src="https://cdn.worldvectorlogo.com/logos/tableau-software.svg"
-       alt="Tableau"
-       title="Tableau"
-       width="50"
-       height="50"/>
-</a>
+[![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)](https://pandas.pydata.org/)
+[![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)](https://numpy.org/)
+[![SciPy](https://img.shields.io/badge/SciPy-0C55A5?style=for-the-badge&logo=scipy&logoColor=white)](https://scipy.org/)
+[![Scikit-Learn](https://img.shields.io/badge/Scikit_Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)](https://scikit-learn.org/)
+[![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)](https://www.tensorflow.org/)
+[![Matplotlib](https://img.shields.io/badge/Matplotlib-ffffff?style=for-the-badge&logo=matplotlib&logoColor=black)](https://matplotlib.org/)
+[![Plotly](https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge&logo=plotly&logoColor=white)](https://plotly.com/)
 
-<a href="https://git-scm.com/" target="_blank" style="text-decoration: none;">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"
-       alt="Git"
-       title="Git"
-       width="50"
-       height="50"/>
-</a>
+### Concepts & Techniques
 
-<a href="https://github.com/" target="_blank" style="text-decoration: none;">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg"
-       alt="GitHub"
-       title="GitHub"
-       width="50"
-       height="50"/>
-</a>
-
-</p>
+[![Statistics](https://img.shields.io/badge/Statistics-4285F4?style=for-the-badge&logo=googleanalytics&logoColor=white)](https://en.wikipedia.org/wiki/Statistics)
+[![Data Cleaning](https://img.shields.io/badge/Data_Cleaning-4CAF50?style=for-the-badge&logo=databricks&logoColor=white)](https://en.wikipedia.org/wiki/Data_cleansing)
+[![Data Mining](https://img.shields.io/badge/Data_Mining-FF9800?style=for-the-badge&logo=apachehadoop&logoColor=white)](https://en.wikipedia.org/wiki/Data_mining)
+[![EDA](https://img.shields.io/badge/EDA-2196F3?style=for-the-badge&logo=jupyter&logoColor=white)](https://en.wikipedia.org/wiki/Exploratory_data_analysis)
+[![Feature Engineering](https://img.shields.io/badge/Feature_Engineering-FF5722?style=for-the-badge&logo=scikitlearn&logoColor=white)](https://en.wikipedia.org/wiki/Feature_engineering)
+[![Machine Learning](https://img.shields.io/badge/Machine_Learning-102230?style=for-the-badge&logo=scikitlearn&logoColor=orange)](https://en.wikipedia.org/wiki/Machine_learning)
+[![Business Intelligence](https://img.shields.io/badge/Business_Intelligence-005571?style=for-the-badge&logo=powerbi&logoColor=white)](https://en.wikipedia.org/wiki/Business_intelligence)
+[![Dashboard Development](https://img.shields.io/badge/Dashboard_Development-673AB7?style=for-the-badge&logo=googleanalytics&logoColor=white)](https://en.wikipedia.org/wiki/Dashboard_(business))
+[![ETL](https://img.shields.io/badge/ETL-009688?style=for-the-badge&logo=apacheairflow&logoColor=white)](https://en.wikipedia.org/wiki/Extract,_transform,_load)
+[![DAX](https://img.shields.io/badge/DAX-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)](https://learn.microsoft.com/dax/)
 </p>
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.shion.dev/api?username=Nilayrajsharma&theme=github_dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
