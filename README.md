@@ -10,10 +10,21 @@
 
 <div align="center">
 
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=instagram&logoColor=white)](https://instagram.com/nilayraj_sharma_7781__)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/nilayraj-sharma)
-[![X](https://img.shields.io/badge/X-000000.svg?logo=x&logoColor=white)](https://x.com/nilayrajsharma7)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836.svg?logo=gmail&logoColor=white)](mailto:nilayrajsharma7@gmail.com)
+<a href="https://instagram.com/nilayraj_sharma_7781__">
+  <img src="https://cdn.simpleicons.org/instagram/E4405F" height="40"/>
+</a>
+
+<a href="https://linkedin.com/in/nilayraj-sharma">
+  <img src="https://cdn.simpleicons.org/linkedin/0077B5" height="40"/>
+</a>
+
+<a href="https://x.com/nilayrajsharma7">
+  <img src="https://cdn.simpleicons.org/x/000000" height="40"/>
+</a>
+
+<a href="mailto:nilayrajsharma7@gmail.com">
+  <img src="https://cdn.simpleicons.org/gmail/D14836" height="40"/>
+</a>
 
 </div>
 
