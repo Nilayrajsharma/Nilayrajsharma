@@ -34,8 +34,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="60" title="SQL"/>
 </p>
 
----
-
 ## 📊 Data Analytics & BI Tools
 
 <p align="center">
@@ -47,15 +45,11 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="60" title="VS Code"/>
 </p>
 
----
-
 ## 🗄️ Databases
 
 <p align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="60" title="MySQL"/>
 </p>
-
----
 
 ## 📚 Libraries & Frameworks
 
@@ -70,8 +64,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" width="60" title="PyTorch"/>
 </p>
 
----
-
 ## 🤖 Artificial Intelligence & Machine Learning
 
 <p align="center">
@@ -82,8 +74,6 @@
   <img src="https://img.shields.io/badge/LLMs-512DA8?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/RAG-3949AB?style=for-the-badge"/>
 </p>
-
----
 
 ## 📈 Data Science & Analytics
 
@@ -96,8 +86,6 @@
   <img src="https://img.shields.io/badge/ROC--AUC-7B1FA2?style=for-the-badge"/>
 </p>
 
----
-
 ## 🔄 Data Engineering & Pipelines
 
 <p align="center">
@@ -105,8 +93,6 @@
   <img src="https://img.shields.io/badge/Data_Pipelines-795548?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/Workflow_Automation-607D8B?style=for-the-badge"/>
 </p>
-
----
 
 ## 📊 Business Intelligence
 
@@ -117,8 +103,6 @@
   <img src="https://img.shields.io/badge/Data_Visualization-2196F3?style=for-the-badge"/>
 </p>
 
----
-
 ## 🛠️ Development Tools
 
 <p align="center">
@@ -128,10 +112,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" width="60" title="Jupyter Notebook"/>
   <img src="https://www.vectorlogo.zone/logos/google_colab/google_colab-icon.svg" width="60" title="Google Colab"/>
 </p>
-# 📊 GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=Nilayrajsharma&theme=github_dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://streak-stats.demolab.com/?user=Nilayrajsharma&theme=github_dark&hide_border=false)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=Nilayrajsharma&theme=github_dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=Nilayrajsharma&theme=radical&no-frame=false&no-bg=true&margin-w=4)
