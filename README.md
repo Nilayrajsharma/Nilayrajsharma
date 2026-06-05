@@ -28,181 +28,123 @@
 <h2 align="center">💻 Languages</h2>
 
 <p align="center">
-  <a href="https://www.python.org/" title="Python">
-    <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-  </a>
 
-  <a href="https://en.wikipedia.org/wiki/SQL" title="SQL">
-    <img src="https://img.shields.io/badge/SQL-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white"/>
-  </a>
+<a href="https://www.python.org/" title="Python">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="60"/>
+</a>
+
+<a href="https://en.wikipedia.org/wiki/SQL" title="SQL">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="60"/>
+</a>
+
 </p>
 
 <h2 align="center">📊 Analytics & Business Intelligence</h2>
 
 <p align="center">
-  <a href="https://powerbi.microsoft.com/" title="Power BI">
-    <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
-  </a>
 
-  <a href="https://www.tableau.com/" title="Tableau">
-    <img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white"/>
-  </a>
+<a href="https://powerbi.microsoft.com/" title="Power BI">
+  <img src="https://www.vectorlogo.zone/logos/microsoft_powerbi/microsoft_powerbi-icon.svg" width="60"/>
+</a>
 
-  <a href="https://www.microsoft.com/microsoft-365/excel" title="Excel">
-    <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white"/>
-  </a>
+<a href="https://www.tableau.com/" title="Tableau">
+  <img src="https://cdn.worldvectorlogo.com/logos/tableau-software.svg" width="60"/>
+</a>
 
-  <a href="https://learn.microsoft.com/power-query/" title="Power Query">
-    <img src="https://img.shields.io/badge/Power_Query-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white"/>
-  </a>
+<a href="https://www.microsoft.com/microsoft-365/excel" title="Excel">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" width="60"/>
+</a>
 
-  <a href="https://learn.microsoft.com/dax/" title="DAX">
-    <img src="https://img.shields.io/badge/DAX-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
-  </a>
+<a href="https://learn.microsoft.com/power-query/" title="Power Query">
+  <img src="https://img.icons8.com/color/96/power-bi.png" width="60"/>
+</a>
 
-  <a href="https://en.wikipedia.org/wiki/Business_intelligence" title="Business Intelligence">
-    <img src="https://img.shields.io/badge/BI-005571?style=for-the-badge"/>
-  </a>
+<a href="https://learn.microsoft.com/dax/" title="DAX">
+  <img src="https://img.icons8.com/color/96/power-bi.png" width="60"/>
+</a>
+
+<a href="https://en.wikipedia.org/wiki/Business_intelligence" title="Business Intelligence">
+  <img src="https://img.icons8.com/color/96/combo-chart--v1.png" width="60"/>
+</a>
+
 </p>
 
 <h2 align="center">🗄️ Database</h2>
 
 <p align="center">
-  <a href="https://www.mysql.com/" title="MySQL">
-    <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
-  </a>
+
+<a href="https://www.mysql.com/" title="MySQL">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="60"/>
+</a>
+
 </p>
 
 <h2 align="center">🛠️ Development Tools</h2>
 
 <p align="center">
-  <a href="https://jupyter.org/" title="Jupyter Notebook">
-    <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white"/>
-  </a>
 
-  <a href="https://colab.research.google.com/" title="Google Colab">
-    <img src="https://img.shields.io/badge/Google_Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=white"/>
-  </a>
+<a href="https://jupyter.org/" title="Jupyter Notebook">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" width="60"/>
+</a>
 
-  <a href="https://code.visualstudio.com/" title="VS Code">
-    <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white"/>
-  </a>
+<a href="https://colab.research.google.com/" title="Google Colab">
+  <img src="https://www.vectorlogo.zone/logos/google_colab/google_colab-icon.svg" width="60"/>
+</a>
 
-  <a href="https://git-scm.com/" title="Git">
-    <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
-  </a>
+<a href="https://code.visualstudio.com/" title="VS Code">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="60"/>
+</a>
 
-  <a href="https://github.com/" title="GitHub">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-  </a>
+<a href="https://git-scm.com/" title="Git">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="60"/>
+</a>
+
+<a href="https://github.com/" title="GitHub">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="60"/>
+</a>
+
 </p>
 
 <h2 align="center">📚 Libraries & Frameworks</h2>
 
 <p align="center">
-  <a href="https://pandas.pydata.org/" title="Pandas">
-    <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
-  </a>
 
-  <a href="https://numpy.org/" title="NumPy">
-    <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
-  </a>
+<a href="https://pandas.pydata.org/" title="Pandas">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="60"/>
+</a>
 
-  <a href="https://scipy.org/" title="SciPy">
-    <img src="https://img.shields.io/badge/SciPy-8CAAE6?style=for-the-badge&logo=scipy&logoColor=white"/>
-  </a>
+<a href="https://numpy.org/" title="NumPy">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="60"/>
+</a>
 
-  <a href="https://scikit-learn.org/" title="Scikit-Learn">
-    <img src="https://img.shields.io/badge/Scikit_Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white"/>
-  </a>
+<a href="https://scipy.org/" title="SciPy">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scipy/scipy-original.svg" width="60"/>
+</a>
 
-  <a href="https://www.tensorflow.org/" title="TensorFlow">
-    <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"/>
-  </a>
+<a href="https://scikit-learn.org/" title="Scikit-Learn">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" width="60"/>
+</a>
 
-  <a href="https://pytorch.org/" title="PyTorch">
-    <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white"/>
-  </a>
+<a href="https://www.tensorflow.org/" title="TensorFlow">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" width="60"/>
+</a>
 
-  <a href="https://plotly.com/" title="Plotly">
-    <img src="https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge&logo=plotly&logoColor=white"/>
-  </a>
+<a href="https://pytorch.org/" title="PyTorch">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" width="60"/>
+</a>
 
-  <a href="https://matplotlib.org/" title="Matplotlib">
-    <img src="https://img.shields.io/badge/MPL-11557C?style=for-the-badge"/>
-  </a>
+<a href="https://matplotlib.org/" title="Matplotlib">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/8/84/Matplotlib_icon.svg" width="60"/>
+</a>
 
-  <a href="https://seaborn.pydata.org/" title="Seaborn">
-    <img src="https://img.shields.io/badge/SNS-5A9BD5?style=for-the-badge"/>
-  </a>
-</p>
+<a href="https://seaborn.pydata.org/" title="Seaborn">
+  <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" width="60"/>
+</a>
 
-<h2 align="center">🤖 AI & Machine Learning</h2>
+<a href="https://plotly.com/" title="Plotly">
+  <img src="https://images.plot.ly/logo/new-branding/plotly-logomark.png" width="60"/>
+</a>
 
-<p align="center">
-  <a href="https://en.wikipedia.org/wiki/Machine_learning" title="Machine Learning">
-    <img src="https://img.shields.io/badge/ML-FF6F00?style=for-the-badge"/>
-  </a>
-
-  <a href="https://en.wikipedia.org/wiki/Deep_learning" title="Deep Learning">
-    <img src="https://img.shields.io/badge/DL-673AB7?style=for-the-badge"/>
-  </a>
-
-  <a href="https://en.wikipedia.org/wiki/Artificial_neural_network" title="Neural Networks">
-    <img src="https://img.shields.io/badge/NN-3F51B5?style=for-the-badge"/>
-  </a>
-
-  <a href="https://en.wikipedia.org/wiki/Natural_language_processing" title="NLP">
-    <img src="https://img.shields.io/badge/NLP-009688?style=for-the-badge"/>
-  </a>
-
-  <a href="https://en.wikipedia.org/wiki/Large_language_model" title="LLMs">
-    <img src="https://img.shields.io/badge/LLMs-512DA8?style=for-the-badge"/>
-  </a>
-
-  <a href="https://en.wikipedia.org/wiki/Retrieval-augmented_generation" title="RAG">
-    <img src="https://img.shields.io/badge/RAG-3949AB?style=for-the-badge"/>
-  </a>
-</p>
-
-<h2 align="center">📈 Data Science & Analytics</h2>
-
-<p align="center">
-  <a href="https://en.wikipedia.org/wiki/Statistics">
-    <img src="https://img.shields.io/badge/STAT-4285F4?style=for-the-badge"/>
-  </a>
-
-  <a href="https://en.wikipedia.org/wiki/Data_cleansing">
-    <img src="https://img.shields.io/badge/DC-4CAF50?style=for-the-badge"/>
-  </a>
-
-  <a href="https://en.wikipedia.org/wiki/Data_mining">
-    <img src="https://img.shields.io/badge/DM-FF9800?style=for-the-badge"/>
-  </a>
-
-  <a href="https://en.wikipedia.org/wiki/Exploratory_data_analysis">
-    <img src="https://img.shields.io/badge/EDA-2196F3?style=for-the-badge"/>
-  </a>
-
-  <a href="https://en.wikipedia.org/wiki/Feature_engineering">
-    <img src="https://img.shields.io/badge/FE-FF5722?style=for-the-badge"/>
-  </a>
-
-  <a href="https://en.wikipedia.org/wiki/Receiver_operating_characteristic">
-    <img src="https://img.shields.io/badge/ROC--AUC-7B1FA2?style=for-the-badge"/>
-  </a>
-</p>
-
-<h2 align="center">⚙️ Data Engineering</h2>
-
-<p align="center">
-  <a href="https://en.wikipedia.org/wiki/Extract,_transform,_load">
-    <img src="https://img.shields.io/badge/ETL-009688?style=for-the-badge"/>
-  </a>
-
-  <a href="https://en.wikipedia.org/wiki/Data_pipeline">
-    <img src="https://img.shields.io/badge/Pipelines-795548?style=for-the-badge"/>
-  </a>
 </p>
 
 # 📊 GitHub Stats:
