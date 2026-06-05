@@ -25,7 +25,7 @@
 
 # 💻 Tech Stack:
 
-<!-- ========================= DATA ANALYTICS & BI TOOLS ========================= -->
+<!-- ========================= DATA ANALYTICS & BI ========================= -->
 
 <h2 align="center">📊 Data Analytics & BI Tools</h2>
 
@@ -81,6 +81,50 @@
 
 <a href="https://github.com/" title="GitHub">
   <img src="https://cdn.simpleicons.org/github" width="60"/>
+</a>
+
+</p>
+
+<!-- ========================= LIBRARIES & FRAMEWORKS ========================= -->
+
+<h2 align="center">📚 Libraries & Frameworks</h2>
+
+<p align="center">
+
+<a href="https://pandas.pydata.org/" title="Pandas">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="60"/>
+</a>
+
+<a href="https://numpy.org/" title="NumPy">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="60"/>
+</a>
+
+<a href="https://scipy.org/" title="SciPy">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scipy/scipy-original.svg" width="60"/>
+</a>
+
+<a href="https://scikit-learn.org/" title="Scikit-Learn">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" width="60"/>
+</a>
+
+<a href="https://www.tensorflow.org/" title="TensorFlow">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" width="60"/>
+</a>
+
+<a href="https://pytorch.org/" title="PyTorch">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" width="60"/>
+</a>
+
+<a href="https://matplotlib.org/" title="Matplotlib">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/8/84/Matplotlib_icon.svg" width="60"/>
+</a>
+
+<a href="https://seaborn.pydata.org/" title="Seaborn">
+  <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" width="60"/>
+</a>
+
+<a href="https://plotly.com/" title="Plotly">
+  <img src="https://images.plot.ly/logo/new-branding/plotly-logomark.png" width="60"/>
 </a>
 
 </p>
