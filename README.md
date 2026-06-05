@@ -1,67 +1,12 @@
-# 💫 About Me
+<!-- 🌊 BLUE WAVE HEADER -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d47a1,100:00bcd4&height=200&section=header&text=Nilayraj%20Anil%20Sharma&fontSize=35&fontColor=ffffff&animation=fadeIn&fontAlignY=35" />
 
-<!-- 🌊 BLUE ANIMATED WAVE HEADER -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d47a1,100:00bcd4&height=200&section=header&text=Nilayraj%20Anil%20Sharma&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=35" />
-
----
-
-<!-- ✨ TYPING ANIMATION (BLUE STYLE) -->
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=00BFFF&center=true&vCenter=true&width=800&lines=Data+Analyst;Business+Intelligence+Developer;Aspiring+Data+Scientist;Turning+Data+into+Insights" />
+<!-- ✨ ANIMATED TYPING ROLES -->
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00BFFF&center=true&vCenter=true&width=900&lines=Data+Analyst;Data+Scientist;Business+Intelligence+Developer" />
 
 </div>
-
----
-
-## 👨‍💻 About Me (Blue Theme Vibes)
-
-<img align="right" width="350" src="https://media.giphy.com/media/3o7TKtnuHOHHUjR38Y/giphy.gif" />
-
-- 📊 Data Analyst focused on insights & storytelling  
-- 🤖 Exploring Data Science & AI  
-- 📈 Building interactive BI dashboards  
-- 🧠 Turning raw data into meaningful decisions  
-- 🚀 Always learning and improving  
-
----
-
-## 🌊 Blue Motion Graphics
-
-<p align="center">
-  <img src="https://media.giphy.com/media/l0HlNaQ6gWfllcjDO/giphy.gif" width="300"/>
-  <img src="https://media.giphy.com/media/coxQHKASG60HrHtvkt/giphy.gif" width="300"/>
-</p>
-
----
-
-## 📊 Live GitHub Stats (Blue Theme)
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=blueberry" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=blueberry" />
-</p>
-
----
-
-## 🐍 Animated Contribution Graph (Blue Style)
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg" />
-</p>
-
----
-
-## 💙 Blue Tech Stack Glow
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python,sql,pandas,numpy,js,react,html,css,git,github&theme=light" />
-</p>
-
----
-
-<!-- 🌊 BLUE WAVE FOOTER -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00bcd4,100:0d47a1&height=120&section=footer" />
 
 
 ## 🌐 Socials:
