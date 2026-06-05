@@ -34,7 +34,7 @@
 </a>
 
 <a href="https://en.wikipedia.org/wiki/SQL" title="SQL">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="60"/>
+  <img src="https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white"/>
 </a>
 
 </p>
@@ -44,27 +44,23 @@
 <p align="center">
 
 <a href="https://powerbi.microsoft.com/" title="Power BI">
-  <img src="https://www.vectorlogo.zone/logos/microsoft_powerbi/microsoft_powerbi-icon.svg" width="60"/>
+  <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
 </a>
 
 <a href="https://www.tableau.com/" title="Tableau">
-  <img src="https://cdn.worldvectorlogo.com/logos/tableau-software.svg" width="60"/>
+  <img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white"/>
 </a>
 
 <a href="https://www.microsoft.com/microsoft-365/excel" title="Excel">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" width="60"/>
+  <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white"/>
 </a>
 
 <a href="https://learn.microsoft.com/power-query/" title="Power Query">
-  <img src="https://img.icons8.com/color/96/power-bi.png" width="60"/>
+  <img src="https://img.shields.io/badge/Power_Query-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white"/>
 </a>
 
 <a href="https://learn.microsoft.com/dax/" title="DAX">
-  <img src="https://img.icons8.com/color/96/power-bi.png" width="60"/>
-</a>
-
-<a href="https://en.wikipedia.org/wiki/Business_intelligence" title="Business Intelligence">
-  <img src="https://img.icons8.com/color/96/combo-chart--v1.png" width="60"/>
+  <img src="https://img.shields.io/badge/DAX-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
 </a>
 
 </p>
@@ -88,7 +84,7 @@
 </a>
 
 <a href="https://colab.research.google.com/" title="Google Colab">
-  <img src="https://www.vectorlogo.zone/logos/google_colab/google_colab-icon.svg" width="60"/>
+  <img src="https://img.shields.io/badge/Google_Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=white"/>
 </a>
 
 <a href="https://code.visualstudio.com/" title="VS Code">
@@ -122,7 +118,7 @@
 </a>
 
 <a href="https://scikit-learn.org/" title="Scikit-Learn">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" width="60"/>
+  <img src="https://cdn.simpleicons.org/scikitlearn/F7931E" width="60"/>
 </a>
 
 <a href="https://www.tensorflow.org/" title="TensorFlow">
@@ -134,19 +130,18 @@
 </a>
 
 <a href="https://matplotlib.org/" title="Matplotlib">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/8/84/Matplotlib_icon.svg" width="60"/>
+  <img src="https://cdn.simpleicons.org/matplotlib/11557C" width="60"/>
 </a>
 
 <a href="https://seaborn.pydata.org/" title="Seaborn">
-  <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" width="60"/>
+  <img src="https://cdn.simpleicons.org/python/4B8BBE" width="60"/>
 </a>
 
 <a href="https://plotly.com/" title="Plotly">
-  <img src="https://images.plot.ly/logo/new-branding/plotly-logomark.png" width="60"/>
+  <img src="https://cdn.simpleicons.org/plotly/3F4F75" width="60"/>
 </a>
 
 </p>
-
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.shion.dev/api?username=Nilayrajsharma&theme=github_dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://streak-stats.demolab.com/?user=Nilayrajsharma&theme=github_dark&hide_border=false)<br/>
