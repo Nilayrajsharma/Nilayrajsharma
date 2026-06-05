@@ -25,38 +25,22 @@
 
 # 💻 Tech Stack:
 
-<!-- ========================= LANGUAGES ========================= -->
-
-<h2 align="center">💻 Languages</h2>
-
-<p align="center">
-
-<a href="https://www.python.org/" title="Python">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="60"/>
-</a>
-
-<a href="https://en.wikipedia.org/wiki/SQL" title="SQL">
-  <img src="https://cdn.simpleicons.org/mysql/4479A1" width="60"/>
-</a>
-
-</p>
-
-<!-- ========================= DATA ANALYTICS & BI ========================= -->
+<!-- ========================= DATA ANALYTICS & BI TOOLS ========================= -->
 
 <h2 align="center">📊 Data Analytics & BI Tools</h2>
 
 <p align="center">
 
 <a href="https://powerbi.microsoft.com/" title="Power BI">
-  <img src="https://cdn.simpleicons.org/powerbi/F2C811" width="60"/>
+  <img src="https://www.vectorlogo.zone/logos/microsoft_powerbi/microsoft_powerbi-icon.svg" width="60"/>
 </a>
 
 <a href="https://www.tableau.com/" title="Tableau">
-  <img src="https://cdn.simpleicons.org/tableau/E97627" width="60"/>
+  <img src="https://cdn.worldvectorlogo.com/logos/tableau-software.svg" width="60"/>
 </a>
 
 <a href="https://www.microsoft.com/microsoft-365/excel" title="Microsoft Excel">
-  <img src="https://cdn.simpleicons.org/microsoftexcel/217346" width="60"/>
+  <img src="https://cdn.simpleicons.org/microsoftexcel" width="60"/>
 </a>
 
 <a href="https://learn.microsoft.com/power-query/" title="Power Query">
@@ -64,11 +48,11 @@
 </a>
 
 <a href="https://learn.microsoft.com/dax/" title="DAX">
-  <img src="https://cdn.simpleicons.org/powerbi/F2C811" width="60"/>
+  <img src="https://www.vectorlogo.zone/logos/microsoft_powerbi/microsoft_powerbi-icon.svg" width="60"/>
 </a>
 
 <a href="https://www.canva.com/" title="Canva">
-  <img src="https://cdn.simpleicons.org/canva/00C4CC" width="60"/>
+  <img src="https://cdn.simpleicons.org/canva" width="60"/>
 </a>
 
 </p>
@@ -84,7 +68,7 @@
 </a>
 
 <a href="https://colab.research.google.com/" title="Google Colab">
-  <img src="https://cdn.simpleicons.org/googlecolab/F9AB00" width="60"/>
+  <img src="https://www.vectorlogo.zone/logos/google_colab/google_colab-icon.svg" width="60"/>
 </a>
 
 <a href="https://code.visualstudio.com/" title="VS Code">
@@ -96,51 +80,7 @@
 </a>
 
 <a href="https://github.com/" title="GitHub">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="60"/>
-</a>
-
-</p>
-
-<!-- ========================= LIBRARIES & FRAMEWORKS ========================= -->
-
-<h2 align="center">📚 Libraries & Frameworks</h2>
-
-<p align="center">
-
-<a href="https://pandas.pydata.org/" title="Pandas">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="60"/>
-</a>
-
-<a href="https://numpy.org/" title="NumPy">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="60"/>
-</a>
-
-<a href="https://scipy.org/" title="SciPy">
-  <img src="https://cdn.simpleicons.org/scipy/8CAAE6" width="60"/>
-</a>
-
-<a href="https://scikit-learn.org/" title="Scikit-Learn">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" width="60"/>
-</a>
-
-<a href="https://www.tensorflow.org/" title="TensorFlow">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" width="60"/>
-</a>
-
-<a href="https://pytorch.org/" title="PyTorch">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" width="60"/>
-</a>
-
-<a href="https://matplotlib.org/" title="Matplotlib">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/8/84/Matplotlib_icon.svg" width="60"/>
-</a>
-
-<a href="https://seaborn.pydata.org/" title="Seaborn">
-  <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" width="60"/>
-</a>
-
-<a href="https://plotly.com/" title="Plotly">
-  <img src="https://cdn.simpleicons.org/plotly/3F4F75" width="60"/>
+  <img src="https://cdn.simpleicons.org/github" width="60"/>
 </a>
 
 </p>
