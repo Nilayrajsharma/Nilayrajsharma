@@ -2,7 +2,8 @@
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=28&pause=1000&color=36BCF7&center=true&vCenter=true&width=700&lines=👋+Hi%2C+I'm+Nilayraj+Anil+Sharma;📊+Data+Analyst;🤖+Aspiring+Data+Scientist;📈+Business+Intelligence+Developer;🚀+Transforming+Data+into+Insights" alt="Typing SVG" />
+<!-- Animated typing header -->
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&pause=1000&color=00F7FF&center=true&vCenter=true&width=800&lines=Hi+I'm+Nilayraj+Anil+Sharma;Data+Analyst+%7C+BI+Developer;Aspiring+Data+Scientist;Turning+Data+into+Insights" />
 
 </div>
 
