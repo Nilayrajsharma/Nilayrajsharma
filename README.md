@@ -10,20 +10,20 @@
 
 <div align="center">
 
-<a href="..." title="Instagram">
-  <img src="..." height="40"/>
-</a>&nbsp;&nbsp;&nbsp;
+<a href="https://instagram.com/nilayraj_sharma_7781__" title="Instagram">
+  <img src="https://skillicons.dev/icons?i=instagram" height="40"/>
+</a>
 
-<a href="..." title="LinkedIn">
-  <img src="..." height="40"/>
-</a>&nbsp;&nbsp;&nbsp;
+<a href="https://linkedin.com/in/nilayraj-sharma" title="LinkedIn">
+  <img src="https://skillicons.dev/icons?i=linkedin" height="40"/>
+</a>
 
-<a href="..." title="X (Twitter)">
-  <img src="..." height="40"/>
-</a>&nbsp;&nbsp;&nbsp;
+<a href="https://x.com/nilayrajsharma7" title="X (Twitter)">
+  <img src="https://skillicons.dev/icons?i=twitter" height="40"/>
+</a>
 
-<a href="..." title="Gmail">
-  <img src="..." height="40"/>
+<a href="mailto:nilayrajsharma7@gmail.com" title="Gmail">
+  <img src="https://skillicons.dev/icons?i=gmail" height="40"/>
 </a>
 
 </div>
