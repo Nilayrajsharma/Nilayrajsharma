@@ -4,6 +4,7 @@
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&pause=2500&color=0000D1&center=true&vCenter=true&width=850&lines=Building+Intelligent+Systems;Machine+Learning+%7C+Data+Science+%7C+AI;Always+Learning+Always+Improving" />
 
+</div>
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=40&section=header&color=0:0000D1,25:1010E8,50:1A1AFF,75:3333FF,100:4D4DFF"/>
 
