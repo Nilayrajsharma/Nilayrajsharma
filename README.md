@@ -88,6 +88,53 @@ if __name__ == "__main__":
 
 
 
+
+Or a truly unique **terminal-style README**:
+
+```md
+## 💻 whoami
+
+```bash
+$ whoami
+
+Shubham Salape
+
+AI Engineer | Data Scientist | ML Developer
+
+$ interests
+
+> Machine Learning
+> Generative AI
+> NLP & Transformers
+> Predictive Analytics
+> MLOps
+
+$ skills --list
+
+Python
+SQL
+Power BI
+Tableau
+Scikit-Learn
+Pandas
+NumPy
+Matplotlib
+Seaborn
+
+$ current_goal
+
+Building scalable AI systems that transform
+raw data into intelligent decision-making.
+
+$ status
+
+Learning...
+Building...
+Deploying...
+
+[████████████████████] 100%
+```
+
 ## ⚡Tech stacks:
 
 <div align="center">
