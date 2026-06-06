@@ -415,16 +415,21 @@ Model Deployment • Pipelines
 
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=Nilayrajsharma&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
+# 📈 Contribution Graph
+<div align="center">
+    
+![]\([https://github-readme-activity-graph.vercel.app/graph?username=Nilayrajsharma&theme=tokyo-night](https://github-readme-activity-graph.vercel.app/graph?username=Nilayrajsharma\&theme=tokyo-night))
+
+</div>
+
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=Nilayrajsharma&theme=tokyonight&no-frame=false&no-bg=true&margin-w=4)
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=Nilayrajsharma&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
----
-[![](https://komarev.com/ghpvc/?username=Nilayrajsharma&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+[![](https://komarev.com/ghpvc/?username=Nilayrajsharma&icon=0&color=0)](https://visitcount.itsvg.in)
 
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=40&section=header&color=0:0000D1,25:1010E8,50:1A1AFF,75:3333FF,100:4D4DFF"/>
