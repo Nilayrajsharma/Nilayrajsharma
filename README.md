@@ -331,6 +331,11 @@ if __name__ == "__main__":
 
 </div>
 
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=40&section=header&color=0:0000D1,25:1010E8,50:1A1AFF,75:3333FF,100:4D4DFF"/>
+
+
+
+
 ## 🌐 Contact with me:
 
 <div align="center">
