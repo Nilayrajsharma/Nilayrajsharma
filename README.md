@@ -88,50 +88,6 @@ if __name__ == "__main__":
 
 
 
-## 💻 whoami
-
-```bash
-$ whoami
-
-Nilayraj Anil Sharma
-
-Data Analyst | Data Scientist | ML Developer
-
-$ interests
-
-> Machine Learning
-> Generative AI
-> NLP & Transformers
-> Predictive Analytics
-> MLOps
-
-$ skills --list
-
-Python
-SQL
-Power BI
-Tableau
-Scikit-Learn
-Pandas
-NumPy
-Matplotlib
-Seaborn
-
-$ current_goal
-
-Building scalable AI systems that transform
-raw data into intelligent decision-making.
-
-$ status
-
-Learning...
-Building...
-Deploying...
-
-[████████████████░░░░] 80% Learning
-```
-
-
 ## ⚡Tech stacks:
 
 <div align="center">
@@ -374,6 +330,74 @@ Deploying...
 <a href="https://en.wikipedia.org/wiki/Data_pipeline" target="_blank">
 <img src="https://img.shields.io/badge/Data%20Pipelines-8B5CF6?style=for-the-badge&logo=apacheairflow&logoColor=white" title="Data Pipelines"/>
 </a>
+
+</div>
+
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=40&section=header&color=0:0000D1,25:1010E8,50:1A1AFF,75:3333FF,100:4D4DFF"/>
+
+
+
+
+# 🚀 AI / ML Domains
+
+<div align="center">
+
+<table>
+
+<tr>
+
+<td align="center" width="25%">
+
+<img src="https://img.icons8.com/fluency/96/combo-chart.png" width="55"/>
+
+### 📊 Data Analytics
+
+SQL • Power BI • Tableau  
+Pandas • NumPy • Excel  
+Data Cleaning • EDA • Visualization
+
+</td>
+
+<td align="center" width="25%">
+
+<img src="https://img.icons8.com/fluency/96/artificial-intelligence.png" width="55"/>
+
+### 🤖 Machine Learning
+
+Scikit-Learn • Regression  
+Classification • Feature Engineering  
+Model Evaluation • NLP
+
+</td>
+
+<td align="center" width="25%">
+
+<img src="https://img.icons8.com/fluency/96/brain.png" width="55"/>
+
+### 🧠 Generative AI
+
+LLMs • Transformers  
+Prompt Engineering • RAG  
+Vector Databases • AI Systems
+
+</td>
+
+<td align="center" width="25%">
+
+<img src="https://img.icons8.com/fluency/96/cloud-development.png" width="55"/>
+
+### ⚙️ Deployment
+
+Streamlit • Git • GitHub  
+VS Code • APIs • MLOps  
+Model Deployment • Pipelines
+
+</td>
+
+</tr>
+
+</table>
 
 </div>
 
