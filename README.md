@@ -19,7 +19,14 @@
 </a>&nbsp;&nbsp;&nbsp;
 
 <a href="https://x.com/nilayrajsharma7" style="text-decoration:none;">
-  <img src="https://skillicons.dev/icons?i=twitter" height="40"/>
+  <img 
+    src="https://cdn.simpleicons.org/x/ffffff"
+    width="60"
+    height="60"
+    alt="X"
+    title="X"
+    style="display:inline-block; padding:6px; box-sizing:border-box;"
+  />
 </a>&nbsp;&nbsp;&nbsp;
 
 <a href="https://wa.me/919967902946" title="WhatsApp Me">
