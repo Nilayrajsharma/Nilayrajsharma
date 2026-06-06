@@ -88,9 +88,6 @@ if __name__ == "__main__":
 
 
 
-
-Or a truly unique **terminal-style README**:
-
 ```md
 ## 💻 whoami
 
