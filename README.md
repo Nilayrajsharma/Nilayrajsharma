@@ -12,7 +12,15 @@
 
 
 
-# 🧠 AI PROFILE INITIALIZATION
+<h1 align="left">
+  <img 
+    src="https://img.icons8.com/fluency/96/artificial-intelligence.png"
+    width="42"
+    style="vertical-align:middle;"
+  />
+  AI PROFILE INITIALIZATION
+</h1>
+
 ```python
 # ==========================================
 # REQUIREMENTS
@@ -134,7 +142,7 @@ if __name__ == "__main__":
 
 ---
 
-## 🔍 Curiosity Corner
+🔍 Curiosity Corner
 
 🏏 Playing cricket and enjoying the spirit of the game  
 📺 Watching live cricket matches and following tournaments  
