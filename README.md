@@ -88,15 +88,14 @@ if __name__ == "__main__":
 
 
 
-```md
 ## 💻 whoami
 
 ```bash
 $ whoami
 
-Shubham Salape
+Nilayraj Anil Sharma
 
-AI Engineer | Data Scientist | ML Developer
+Data Analyst | Data Scientist | ML Developer
 
 $ interests
 
@@ -129,8 +128,9 @@ Learning...
 Building...
 Deploying...
 
-[████████████████████] 100%
+[████████████████░░░░] 80% Learning
 ```
+
 
 ## ⚡Tech stacks:
 
