@@ -5,10 +5,9 @@
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&pause=2500&color=0000D1&center=true&vCenter=true&width=850&lines=Building+Intelligent+Systems;Machine+Learning+%7C+Data+Science+%7C+AI;Always+Learning+Always+Improving" />
 
 </div>
-<p align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=wave&height=100&color=0:0000D1,50:1A1AFF,100:4D4DFF&section=footer"/>
-</p>
-
+<div align="center">
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=150&section=footer&color=0:0000D1,30:1A1AFF,70:4D4DFF,100:8080FF&animation=fadeIn"/>
+</div>
 ## 🌐 Contact with me:
 
 <div align="center">
