@@ -27,8 +27,9 @@
 </a>
 
 <a href="https://wa.me/919967902946" title="WhatsApp Me">
-  <img src="https://cdn.simpleicons.org/whatsapp/25D366" height="45"/>
+  <img src="https://cdn.simpleicons.org/whatsapp/25D366" height="40"/>
 </a>
+
 </div>
 
 <!-- Snake Game Repo View -->
