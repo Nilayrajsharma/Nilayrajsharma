@@ -142,7 +142,7 @@ if __name__ == "__main__":
 
 ---
 
-🔍 Curiosity Corner
+🔍 Curiosity Corner:
 
 🏏 Playing cricket and enjoying the spirit of the game  
 📺 Watching live cricket matches and following tournaments  
