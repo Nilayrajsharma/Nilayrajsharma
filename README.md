@@ -88,6 +88,67 @@ if __name__ == "__main__":
 
 
 
+# 💫 About Me
+
+📊 Passionate about turning **data into actionable insights** and building **intelligent systems** that solve real-world problems.
+
+---
+
+🧠 Currently exploring the intersection of:
+
+- Data Science & Analytics
+- Machine Learning & Predictive Modeling
+- Exploratory Data Analysis (EDA)
+- Statistical Inference & Hypothesis Testing
+- Data Engineering fundamentals
+
+---
+
+⚡ Strong foundation in:
+
+`Python` • `SQL` • `Pandas` • `NumPy` • `Scikit-Learn` • `Matplotlib` • `Seaborn` • `Power BI` • `Tableau` • `Excel` • `Statistics`
+
+---
+
+🎯 Focused on:
+
+- Extracting meaningful insights from complex datasets
+- Building predictive and classification models
+- Designing interactive dashboards & reports
+- Improving data-driven decision-making systems
+- Learning end-to-end ML workflow & deployment basics
+
+---
+
+💡 Interested in creating solutions that combine:
+
+- data-driven storytelling
+- scalable analytics pipelines
+- machine learning models
+- business intelligence dashboards
+- real-world problem solving
+
+---
+
+🌱 Continuously learning, experimenting, and growing in the fields of **Data Analytics, Data Science, and Machine Learning exploration**.
+
+---
+
+## 🔍 Curiosity Corner
+
+🏏 Playing cricket and enjoying the spirit of the game  
+📺 Watching live cricket matches and following tournaments  
+🎮 Playing video games for fun and relaxation  
+🎬 Watching movies and exploring anime series  
+🧠 Exploring and learning new skills and technologies  
+💡 Always curious and interested in trying new things  
+
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=40&section=header&color=0:0000D1,25:1010E8,50:1A1AFF,75:3333FF,100:4D4DFF"/>
+
+
+
+
 ## ⚡Tech stacks:
 
 <div align="center">
