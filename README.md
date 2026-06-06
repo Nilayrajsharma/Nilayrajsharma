@@ -11,6 +11,81 @@
 
 
 
+# 🧠 AI PROFILE INITIALIZATION
+```python
+# ==========================================
+# REQUIREMENTS
+# ==========================================
+
+import pandas as pd
+import numpy as np
+import matplotlib.pyplot as plt
+import seaborn as sns
+from sklearn import model_selection
+
+# ==========================================
+# PROFILE CONFIGURATION
+# ==========================================
+
+class NilayrajSharma:
+
+    def __init__(self):
+
+        self.roles = [
+            "📊 Data Analyst",
+            "🧠 Data Scientist",
+            "🤖 ML Explorer"
+        ]
+
+        self.skills = {
+            "Languages": ["Python", "SQL"],
+            "Analytics": ["Power BI", "Tableau", "Excel"],
+            "Libraries": ["Pandas", "NumPy", "Matplotlib", "Seaborn"],
+            "Machine Learning": [
+                "Regression",
+                "Classification",
+                "Decision Trees",
+                "Random Forest",
+                "Scikit-Learn"
+            ]
+        }
+
+        self.current_focus = [
+            "Machine Learning",
+            "Deep Learning",
+            "LLMs",
+            "Artificial Intelligence"
+        ]
+
+    def mission(self):
+        return "Turning data into actionable insights."
+
+    def status(self):
+        return "Learning • Building • Improving 🚀"
+
+
+# ==========================================
+# EXECUTION
+# ==========================================
+
+if __name__ == "__main__":
+
+    profile = NilayrajSharma()
+
+    print("Initializing Profile...")
+
+    print(profile.roles)
+    print(profile.current_focus)
+
+    print(profile.mission())
+    print(profile.status())
+```
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=40&section=header&color=0:0000D1,25:1010E8,50:1A1AFF,75:3333FF,100:4D4DFF"/>
+
+
+
+
 ## ⚡Tech stacks:
 
 <div align="center">
