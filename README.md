@@ -98,9 +98,9 @@ if __name__ == "__main__":
 
 # 💫 About Me
 
-📊 Passionate about turning **data into actionable insights** and building **intelligent systems** that solve real-world problems.
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&pause=2500&color=0000D1&center=true&vCenter=true&width=850&lines=Turning+Data+into+Insights+Decisions" />
 
----
+📊 Passionate about turning **data into actionable insights** and building **intelligent systems** that solve real-world problems.
 
 🧠 Currently exploring the intersection of:
 
