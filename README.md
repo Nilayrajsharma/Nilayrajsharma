@@ -46,137 +46,248 @@
 
 <h1 align="center">
 
-<!-- 🤖 Artificial Intelligence & Machine Learning -->
+<div align="center">
 
-<h2 align="center">🤖 Artificial Intelligence & Machine Learning</h2>
+<h3 align="center">💻 Languages</h3>
+<a href="https://www.python.org/" target="_blank" style="text-decoration:none !important; border:none !important; outline:none !important; box-shadow:none !important;">
+  <img 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"
+    width="60"
+    alt="Python"
+    title="Python"
+    style="display:inline-block;"
+  />
+</a>
 
-<p align="center">
-  <a href="https://en.wikipedia.org/wiki/Machine_learning" target="_blank">
-    <img src="https://img.shields.io/badge/Machine_Learning-FF6F00?style=for-the-badge"/>
-  </a>
+<a href="https://www.mysql.com/" target="_blank" style="text-decoration:none; border:none; outline:none;">
+  <img 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg"
+    width="60"
+    title="SQL"
+    alt="SQL"
+    style="vertical-align:middle;"
+  />
+</a>
 
-  <a href="https://en.wikipedia.org/wiki/Deep_learning" target="_blank">
-    <img src="https://img.shields.io/badge/Deep_Learning-673AB7?style=for-the-badge"/>
-  </a>
+<h3 align="center">📊 Data Analytics & BI</h3>
 
-  <a href="https://en.wikipedia.org/wiki/Artificial_neural_network" target="_blank">
-    <img src="https://img.shields.io/badge/Neural_Networks-3F51B5?style=for-the-badge"/>
-  </a>
+<a href="https://powerbi.microsoft.com/" target="_blank">
+<img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg" width="60" title="Power BI"/>
+</a>
 
-  <a href="https://en.wikipedia.org/wiki/Natural_language_processing" target="_blank">
-    <img src="https://img.shields.io/badge/NLP-009688?style=for-the-badge"/>
-  </a>
+<a href="https://www.tableau.com/" target="_blank">
+<img src="https://cdn.worldvectorlogo.com/logos/tableau-software.svg" width="60" title="Tableau"/>
+</a>
 
-  <a href="https://en.wikipedia.org/wiki/Large_language_model" target="_blank">
-    <img src="https://img.shields.io/badge/LLMs-512DA8?style=for-the-badge"/>
-  </a>
+<a href="https://www.microsoft.com/en-in/microsoft-365/excel" target="_blank" style="text-decoration:none;">
+  <img 
+    src="https://img.icons8.com/color/512/microsoft-excel-2019--v1.png"
+    width="60"
+    alt="Excel"
+    title="Microsoft Excel"
+  />
+</a>
 
-  <a href="https://en.wikipedia.org/wiki/Retrieval-augmented_generation" target="_blank">
-    <img src="https://img.shields.io/badge/RAG-3949AB?style=for-the-badge"/>
-  </a>
+<a href="https://en.wikipedia.org/wiki/Business_intelligence" target="_blank" style="text-decoration:none !important; border:none !important; outline:none !important; box-shadow:none !important;">
+  <img 
+    src="https://img.icons8.com/color/512/combo-chart--v1.png"
+    width="60"
+    alt="Business Intelligence"
+    title="Business Intelligence"
+    style="display:inline-block;"
+  />
+</a>
 
-  <a href="https://en.wikipedia.org/wiki/Statistical_classification" target="_blank">
-    <img src="https://img.shields.io/badge/Classification-4CAF50?style=for-the-badge"/>
-  </a>
 
-  <a href="https://en.wikipedia.org/wiki/Regression_analysis" target="_blank">
-    <img src="https://img.shields.io/badge/Regression-FF9800?style=for-the-badge"/>
-  </a>
+<h3 align="center">📚 Data Science Libraries</h3>
 
-  <a href="https://en.wikipedia.org/wiki/Model_selection" target="_blank">
-    <img src="https://img.shields.io/badge/Model_Evaluation-607D8B?style=for-the-badge"/>
-  </a>
-</p>
+<a href="https://numpy.org/" target="_blank" style="text-decoration:none;">
+  <img 
+    src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg"
+    width="60"
+    alt="NumPy"
+    title="NumPy"
+  />
+</a>
 
-<!-- 📈 Data Science & Analytics -->
+<a href="https://pandas.pydata.org/" target="_blank" style="text-decoration:none;">
+  <img 
+    src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg"
+    width="60"
+    alt="Pandas"
+    title="Pandas"
+  />
+</a>
 
-<h2 align="center">📈 Data Science & Analytics</h2>
+<a href="https://matplotlib.org/" target="_blank" style="text-decoration:none;">
+  <img 
+    src="https://raw.githubusercontent.com/devicons/devicon/master/icons/matplotlib/matplotlib-original.svg"
+    width="60"
+    alt="Matplotlib"
+    title="Matplotlib"
+  />
+</a>
 
-<p align="center">
-  <a href="https://en.wikipedia.org/wiki/Statistics" target="_blank">
-    <img src="https://img.shields.io/badge/Statistics-4285F4?style=for-the-badge"/>
-  </a>
+<a href="https://seaborn.pydata.org/" target="_blank">
+<img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" width="60" title="Seaborn"/>
+</a>
 
-  <a href="https://en.wikipedia.org/wiki/Data_mining" target="_blank">
-    <img src="https://img.shields.io/badge/Data_Mining-FF9800?style=for-the-badge"/>
-  </a>
+<a href="https://scipy.org/" target="_blank">
+<img src="https://upload.wikimedia.org/wikipedia/commons/b/b2/SCIPY_2.svg" width="60" title="SciPy"/>
+</a>
 
-  <a href="https://en.wikipedia.org/wiki/Data_cleansing" target="_blank">
-    <img src="https://img.shields.io/badge/Data_Cleaning-4CAF50?style=for-the-badge"/>
-  </a>
 
-  <a href="https://en.wikipedia.org/wiki/Data_wrangling" target="_blank">
-    <img src="https://img.shields.io/badge/Data_Wrangling-795548?style=for-the-badge"/>
-  </a>
+<h3 align="center">🤖 Machine Learning & AI</h3>
 
-  <a href="https://en.wikipedia.org/wiki/Exploratory_data_analysis" target="_blank">
-    <img src="https://img.shields.io/badge/EDA-2196F3?style=for-the-badge"/>
-  </a>
+<a href="https://scikit-learn.org/" target="_blank">
+<img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" width="60" title="Scikit-Learn"/>
+</a>
 
-  <a href="https://en.wikipedia.org/wiki/Feature_engineering" target="_blank">
-    <img src="https://img.shields.io/badge/Feature_Engineering-FF5722?style=for-the-badge"/>
-  </a>
+<a href="https://www.tensorflow.org/" target="_blank">
+<img src="https://upload.wikimedia.org/wikipedia/commons/2/2d/Tensorflow_logo.svg" width="60" title="TensorFlow"/>
+</a>
 
-  <a href="https://en.wikipedia.org/wiki/Receiver_operating_characteristic" target="_blank">
-    <img src="https://img.shields.io/badge/ROC--AUC-7B1FA2?style=for-the-badge"/>
-  </a>
+<a href="https://pytorch.org/" target="_blank" style="text-decoration:none;">
+  <img 
+    src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pytorch/pytorch-original.svg"
+    width="60"
+    alt="PyTorch"
+    title="PyTorch"
+  />
+</a>
 
-  <a href="https://en.wikipedia.org/wiki/Statistical_hypothesis_testing" target="_blank">
-    <img src="https://img.shields.io/badge/Hypothesis_Testing-607D8B?style=for-the-badge"/>
-  </a>
-</p>
+<a href="https://en.wikipedia.org/wiki/Machine_learning" target="_blank" style="text-decoration:none !important; border:none !important; outline:none !important; box-shadow:none !important;">
+  <img 
+    src="https://img.icons8.com/color/512/artificial-intelligence.png"
+    width="60"
+    alt="Machine Learning"
+    title="Machine Learning"
+    style="display:inline-block;"
+  />
+</a>
 
-<!-- 🔄 Data Engineering & Pipelines -->
+<a href="https://en.wikipedia.org/wiki/Deep_learning" target="_blank" style="text-decoration:none !important; border:none !important; outline:none !important; box-shadow:none !important;">
+  <img 
+    src="https://img.shields.io/badge/Deep%20Learning-FF6F00?style=for-the-badge"
+    height="60"
+    alt="Deep Learning"
+    title="Deep Learning"
+    style="display:inline-block;"
+  />
+</a>
 
-<h2 align="center">🔄 Data Engineering & Pipelines</h2>
+<a href="https://en.wikipedia.org/wiki/Artificial_neural_network" target="_blank" style="text-decoration:none !important; border:none !important; outline:none !important; box-shadow:none !important;">
+  <img 
+    src="https://cdn-icons-png.flaticon.com/512/2103/2103633.png"
+    width="60"
+    alt="Neural Network"
+    title="Neural Network"
+    style="display:inline-block;"
+  />
+</a>
 
-<p align="center">
-  <a href="https://en.wikipedia.org/wiki/Extract,_transform,_load" target="_blank">
-    <img src="https://img.shields.io/badge/ETL-009688?style=for-the-badge"/>
-  </a>
+<a href="https://en.wikipedia.org/wiki/Natural_language_processing" target="_blank" style="text-decoration:none !important; border:none !important; outline:none !important; box-shadow:none !important;">
+  <img 
+    src="https://img.shields.io/badge/NLP-4B8BBE?style=for-the-badge"
+    width="60"
+    height="60"
+    alt="NLP"
+    title="Natural Language Processing"
+    style="display:inline-block;"
+  />
+</a>
 
-  <a href="https://en.wikipedia.org/wiki/Data_pipeline" target="_blank">
-    <img src="https://img.shields.io/badge/Data_Pipelines-795548?style=for-the-badge"/>
-  </a>
+<a href="https://en.wikipedia.org/wiki/Large_language_model" target="_blank" style="text-decoration:none !important; border:none !important; outline:none !important; box-shadow:none !important;">
+<img src="https://img.shields.io/badge/LLM-8A2BE2?style=for-the-badge&logo=openai&logoColor=white" width="60" height="60" alt="LLM" title="Large Language Model" style="display:inline-block;"/>
+</a>
 
-  <a href="https://en.wikipedia.org/wiki/Workflow" target="_blank">
-    <img src="https://img.shields.io/badge/Workflow_Automation-607D8B?style=for-the-badge"/>
-  </a>
+<a href="https://en.wikipedia.org/wiki/Retrieval-augmented_generation" target="_blank" style="text-decoration:none !important; border:none !important; outline:none !important; box-shadow:none !important;">
+  <img 
+    src="https://cdn-icons-png.flaticon.com/512/2103/2103832.png"
+    width="60"
+    alt="RAG"
+    title="Retrieval-Augmented Generation"
+    style="display:inline-block;"
+  />
+</a>
 
-  <a href="https://en.wikipedia.org/wiki/Data_model" target="_blank">
-    <img src="https://img.shields.io/badge/Data_Modeling-3F51B5?style=for-the-badge"/>
-  </a>
-</p>
+<h3 align="center">📈 Statistics & ML Concepts</h3>
 
-<!-- 📊 Business Intelligence -->
+<a href="https://en.wikipedia.org/wiki/Statistics" target="_blank" style="text-decoration:none !important; border:none !important; outline:none !important; box-shadow:none !important;">
+  <img 
+    src="https://img.shields.io/badge/Statistics-4285F4?style=for-the-badge"
+    height="60"
+    alt="Statistics"
+    title="Statistics"
+    style="display:inline-block;"
+  />
+</a>
 
-<h2 align="center">📊 Business Intelligence</h2>
 
-<p align="center">
-  <a href="https://en.wikipedia.org/wiki/Business_intelligence" target="_blank">
-    <img src="https://img.shields.io/badge/Business_Intelligence-005571?style=for-the-badge"/>
-  </a>
+<a href="https://en.wikipedia.org/wiki/Feature_engineering" target="_blank">
+<img src="https://img.shields.io/badge/Feature%20Engineering-00599C?style=for-the-badge&logo=scikitlearn&logoColor=white" title="Feature Engineering"/>
+</a>
 
-  <a href="https://en.wikipedia.org/wiki/Dashboard_(business)" target="_blank">
-    <img src="https://img.shields.io/badge/Dashboard_Development-673AB7?style=for-the-badge"/>
-  </a>
+<a href="https://en.wikipedia.org/wiki/Exploratory_data_analysis" target="_blank" style="text-decoration:none !important; border:none !important; outline:none !important; box-shadow:none !important;">
+  <img 
+    src="https://img.shields.io/badge/EDA-FF8C00?style=for-the-badge"
+    width="60"
+    height="60"
+    alt="EDA"
+    title="Exploratory Data Analysis"
+    style="display:inline-block;"
+  />
+</a>
 
-  <a href="https://en.wikipedia.org/wiki/Performance_indicator" target="_blank">
-    <img src="https://img.shields.io/badge/KPI_Reporting-FF9800?style=for-the-badge"/>
-  </a>
+<h3 align="center">🛠 Tools & Platforms</h3>
 
-  <a href="https://en.wikipedia.org/wiki/Data_and_information_visualization" target="_blank">
-    <img src="https://img.shields.io/badge/Data_Visualization-2196F3?style=for-the-badge"/>
-  </a>
+<a href="https://jupyter.org/" target="_blank">
+<img src="https://upload.wikimedia.org/wikipedia/commons/3/38/Jupyter_logo.svg" width="60" title="Jupyter Notebook"/>
+</a>
 
-  <a href="https://en.wikipedia.org/wiki/Data_storytelling" target="_blank">
-    <img src="https://img.shields.io/badge/Data_Storytelling-009688?style=for-the-badge"/>
-  </a>
+<a href="https://code.visualstudio.com/" target="_blank">
+<img src="https://upload.wikimedia.org/wikipedia/commons/9/9a/Visual_Studio_Code_1.35_icon.svg" width="60" title="VS Code"/>
+</a>
 
-  <a href="https://en.wikipedia.org/wiki/Dashboard_(business)" target="_blank">
-    <img src="https://img.shields.io/badge/Interactive_Dashboards-795548?style=for-the-badge"/>
-  </a>
-</p>
+<a href="https://colab.research.google.com/" target="_blank" style="text-decoration:none !important; border:none !important; outline:none !important; box-shadow:none !important;">
+<img src="https://colab.research.google.com/img/colab_favicon_256px.png" width="60" alt="Google Colab" title="Google Colab" style="display:inline-block;"/>
+</a>
+
+<a href="https://git-scm.com/" target="_blank" style="text-decoration:none !important; border:none !important; outline:none !important; box-shadow:none !important;">
+  <img 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"
+    width="60"
+    alt="Git"
+    title="Git"
+    style="display:inline-block;"
+  />
+</a>
+
+<a href="https://github.com/" target="_blank" style="text-decoration:none !important; border:none !important; outline:none !important; box-shadow:none !important;">
+  <img 
+    src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/github.svg"
+    width="60"
+    alt="GitHub"
+    title="GitHub"
+    style="filter: invert(1); display:inline-block;"
+  />
+</a>
+
+<h3 align="center">⚙ Data Engineering & Workflow</h3>
+
+<a href="https://en.wikipedia.org/wiki/Data_cleaning" target="_blank">
+<img src="https://img.shields.io/badge/Data%20Cleaning-2E8B57?style=for-the-badge&logo=databricks&logoColor=white" title="Data Cleaning"/>
+</a>
+
+<a href="https://en.wikipedia.org/wiki/Data_mining" target="_blank">
+<img src="https://img.shields.io/badge/Data%20Mining-8B5CF6?style=for-the-badge&logoColor=white" title="Data Mining"/>
+</a>
+
+<a href="https://en.wikipedia.org/wiki/Data_pipeline" target="_blank">
+<img src="https://img.shields.io/badge/Data%20Pipelines-8B5CF6?style=for-the-badge&logo=apacheairflow&logoColor=white" title="Data Pipelines"/>
+</a>
+
+</div>
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=Nilayrajsharma&theme=radical&no-frame=false&no-bg=true&margin-w=4)
