@@ -21,8 +21,8 @@
 <a href="https://x.com/nilayrajsharma7" style="text-decoration:none;">
   <img 
     src="https://cdn.simpleicons.org/x/ffffff"
-    width="60"
-    height="60"
+    width="45"
+    height="45"
     alt="X"
     title="X"
     style="display:inline-block; padding:6px; box-sizing:border-box;"
