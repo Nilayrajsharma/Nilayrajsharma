@@ -22,13 +22,14 @@
   <img src="https://skillicons.dev/icons?i=twitter" height="40"/>
 </a>&nbsp;&nbsp;&nbsp;
 
+<a href="https://wa.me/919967902946" title="WhatsApp Me">
+  <img src="https://cdn.simpleicons.org/whatsapp/25D366" height="40"/>
+</a>
+
 <a href="mailto:nilayrajsharma7@gmail.com" style="text-decoration:none;">
   <img src="https://skillicons.dev/icons?i=gmail" height="40"/>
 </a>
 
-<a href="https://wa.me/919967902946" title="WhatsApp Me">
-  <img src="https://cdn.simpleicons.org/whatsapp/25D366" height="40"/>
-</a>
 
 </div>
 
