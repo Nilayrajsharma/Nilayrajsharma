@@ -21,8 +21,8 @@
 <a href="https://x.com/nilayrajsharma7" title="X (Twitter)" style="text-decoration:none;">
   <img 
     src="https://cdn.simpleicons.org/x/ffffff"
-    width="45"
-    height="45"
+    width="40"
+    height="40"
     alt="X"
     style="display:inline-block; padding:6px; box-sizing:border-box;"
   />
