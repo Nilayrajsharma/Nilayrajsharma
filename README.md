@@ -8,42 +8,8 @@
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=40&section=header&color=0:0000D1,25:1010E8,50:1A1AFF,75:3333FF,100:4D4DFF"/>
 
-## 🌐 Contact with me:
 
-<div align="center">
 
-<a href="https://instagram.com/nilayraj_sharma_7781__" title="Instagram" style="text-decoration:none;">
-  <img src="https://skillicons.dev/icons?i=instagram" height="40"/>
-</a>&nbsp;&nbsp;&nbsp;
-
-<a href="https://linkedin.com/in/nilayraj-sharma" title="LinkedIn" style="text-decoration:none;">
-  <img src="https://skillicons.dev/icons?i=linkedin" height="40"/>
-</a>&nbsp;&nbsp;&nbsp;
-
-<a href="https://x.com/nilayrajsharma7" title="X (Twitter)" style="text-decoration:none;">
-  <img 
-    src="https://cdn.simpleicons.org/x/ffffff"
-    width="40"
-    height="40"
-    alt="X"
-    style="display:inline-block; padding:6px; box-sizing:border-box;"
-  />
-</a>&nbsp;&nbsp;&nbsp;
-
-<a href="https://wa.me/919967902946" title="WhatsApp Me" style="text-decoration:none;">
-  <img src="https://cdn.simpleicons.org/whatsapp/25D366" height="40"/>
-</a>&nbsp;&nbsp;&nbsp;
-
-<a href="mailto:nilayrajsharma7@gmail.com" title="Send Email" style="text-decoration:none;">
-  <img src="https://skillicons.dev/icons?i=gmail" height="40"/>
-</a>
-
-</div>
-
-<!-- Snake Game Repo View -->
-<div align="center">
-  <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
-</div>
 
 ## ⚡Tech stacks:
 
@@ -290,10 +256,41 @@
 
 </div>
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=Nilayrajsharma&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+## 🌐 Contact with me:
 
----
-[![](https://komarev.com/ghpvc/?username=Nilayrajsharma&icon=0&color=0)](https://visitcount.itsvg.in)
+<div align="center">
+
+<a href="https://instagram.com/nilayraj_sharma_7781__" title="Instagram" style="text-decoration:none;">
+  <img src="https://skillicons.dev/icons?i=instagram" height="40"/>
+</a>&nbsp;&nbsp;&nbsp;
+
+<a href="https://linkedin.com/in/nilayraj-sharma" title="LinkedIn" style="text-decoration:none;">
+  <img src="https://skillicons.dev/icons?i=linkedin" height="40"/>
+</a>&nbsp;&nbsp;&nbsp;
+
+<a href="https://x.com/nilayrajsharma7" title="X (Twitter)" style="text-decoration:none;">
+  <img 
+    src="https://cdn.simpleicons.org/x/ffffff"
+    width="40"
+    height="40"
+    alt="X"
+    style="display:inline-block; padding:6px; box-sizing:border-box;"
+  />
+</a>&nbsp;&nbsp;&nbsp;
+
+<a href="https://wa.me/919967902946" title="WhatsApp Me" style="text-decoration:none;">
+  <img src="https://cdn.simpleicons.org/whatsapp/25D366" height="40"/>
+</a>&nbsp;&nbsp;&nbsp;
+
+<a href="mailto:nilayrajsharma7@gmail.com" title="Send Email" style="text-decoration:none;">
+  <img src="https://skillicons.dev/icons?i=gmail" height="40"/>
+</a>
+
+</div>
+
+<!-- Snake Game Repo View -->
+<div align="center">
+  <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
+</div>
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
