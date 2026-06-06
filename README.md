@@ -415,6 +415,12 @@ Model Deployment • Pipelines
 
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=Nilayrajsharma&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=40&section=header&color=0:0000D1,25:1010E8,50:1A1AFF,75:3333FF,100:4D4DFF"/>
+
+
+
+
 # 📈 Contribution Graph
 <div align="center">
     
@@ -422,8 +428,20 @@ Model Deployment • Pipelines
 
 </div>
 
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=40&section=header&color=0:0000D1,25:1010E8,50:1A1AFF,75:3333FF,100:4D4DFF"/>
+
+
+
+
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=Nilayrajsharma&theme=tokyonight&no-frame=false&no-bg=true&margin-w=4)
+
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=40&section=header&color=0:0000D1,25:1010E8,50:1A1AFF,75:3333FF,100:4D4DFF"/>
+
+
+
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=Nilayrajsharma&limit=5&theme=dark&combine_all_yearly_contributions=true)
