@@ -2,6 +2,10 @@
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=260&color=0:0000D1,50:1A1AFF,100:4D4DFF&text=Nilayraj%20Anil%20Sharma&fontColor=E5E7EB&fontSize=52&fontAlignY=38&desc=Data%20Analyst%20|%20Data%20Scientist%20|%20ML%20Explorer&descAlignY=60&descColor=E5E7EB&animation=fadeIn"/>
 
+<p align="center">
+  <img src="YOUR_LUFFY_GIF_URL_HERE" width="300" alt="Luffy saying hi">
+</p>
+
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&pause=2500&color=0000D1&center=true&vCenter=true&width=850&lines=Turning+Data+into+Intelligence;Machine+Learning+%7C+Data+Science+%7C+AI;Always+Learning+Always+Improving" />
 
 </div>
